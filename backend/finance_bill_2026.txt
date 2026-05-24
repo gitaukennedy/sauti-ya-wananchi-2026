@@ -1,0 +1,4804 @@
+--- PAGE 1 ---
+The Finance Bill, 2026 
+ 
+ 
+1 
+ 
+THE FINANCE BILL, 2026 
+A Bill for 
+AN ACT of Parliament to amend the laws relating to 
+various taxes and duties; and for matters incidental 
+thereto 
+ENACTED by the Parliament of Kenya, as follows— 
+ PART I—PRELIMINARY 
+Short title and 
+commencement. 1. This Act may be cited as the Finance Act, 2026, 
+and shall come into operation as follows— 
+ (a) on 1st  January, 2027, sections 19, 20, 25 , 35, 
+36, 37(a)(i), 59(a)(ii), 59(b)(ii), 32(a)(x) new 
+paragraph 163; 
+ (b) all other sections, 1st July, 2027. 
+ PART II—INCOME TAX 
+Amendment of 
+section 2 of Cap. 
+470. 
+2. Section 2 of the Income Tax Act is amended in 
+subsection (1)—  
+ (a) in the definition of “immovable property” , by 
+deleting the word “and” appearing 
+immediately after the words “  immovable 
+property” the end of item (a) , and substituting 
+therefor the word “or”’; 
+ (b) in the definition of “management or 
+professional fee” , by adding the words “and 
+includes interchange fees and merchant service 
+fees arising from transactions that use a card as 
+a means of payment”  immediately after the 
+word “calculated”; 
+ (c) by deleting the definition of  “royalty” and 
+substituting therefor the following new 
+definition— 
+ “royalty” means a payment made as a 
+consideration for— 
+
+--- PAGE 2 ---
+The Finance Bill, 2026 
+ 
+ 
+2 
+ 
+ (a) the use or the right to use— 
+ (i) any copyright of a literary, artistic 
+or scientific work; 
+ (ii) any software, proprietary or off -
+the-shelf, whether in the form of 
+licence, development, training, 
+maintenance or support fees; 
+ (iii) any cinematograph film including 
+a film or tape for radio or 
+television broadcasting; 
+ (iv) any patent, trademark, design or 
+model, plan, formula or process; 
+ (v) any industrial, commercial or 
+scientific equipment; 
+ (vi) information concerning industrial, 
+commercial or scientific 
+equipment or experience, and any 
+gains derived from the sale or 
+exchange of any right or property 
+giving rise to that royalty; or 
+ (vii) a proprietary digital platform, 
+payment network, payment‑card 
+scheme, payment processing 
+system, switching system, clearing 
+system or settlement system, 
+including access, participation or 
+usage rights in such system 
+through a card, whether the 
+consideration is periodic or 
+transaction‑based and whether or 
+not the payment is described as a 
+service fee, transaction fee, 
+network fee, assessment fee, 
+processing fee or similar charge ; 
+or 
+
+--- PAGE 3 ---
+The Finance Bill, 2026 
+ 
+ 
+3 
+ 
+ (b) the distribution of software where 
+regular payments are made for the use 
+of the software through the distributor; 
+ (d) by deleting the definition of “withdrawals” and 
+substituting therefor the following new 
+definition; 
+ 
+ 
+No.15 of 2025. 
+“withdrawals” means any amount of 
+money, cash equivalent, or money’s worth paid 
+or disbursed to the account of a player, by a 
+person licensed issued under the Gambling 
+Control Act, 2025; 
+ (e) by inserting the following new definition in 
+proper alphabetical sequence— 
+ “winnings” means a pay -out,  by a person 
+licensed issued under the Gambling Control 
+Act, 2025, from a lottery or prize competition 
+under the Gambling Control Act, 2025, but 
+does not include the amount staked or wagered. 
+Amendment of 
+section 5 of Cap. 
+470. 
+3. Section 5 of the Income Tax Act is amended in 
+subsection (4)— 
+ (a) in the proviso to paragraph (g), by adding the 
+following new paragraph immediately after 
+paragraph (b)— 
+ (c) the gratuity was for a contract of service for 
+a continuous period of at least three years; 
+ (b) by inserting the following new paragraph 
+immediately after paragraph (g)— 
+ (ga) any contribution to a gratuity in respect of 
+employment or services rendered: 
+ Provided that— 
+ (i) the gratuity was for a contract of 
+service for a continuous period of at 
+least three years; 
+
+--- PAGE 4 ---
+The Finance Bill, 2026 
+ 
+ 
+4 
+ 
+ (ii) the total contributions  does not 
+exceed thirty-one per cent of the basic 
+salary of the employee; and  
+ (iii) this paragraph shall not apply to any 
+person who is eligible for deductions 
+under section 22A. 
+Insertion of a new 
+section 6B to Cap. 
+470.  
+4. The Income Tax Act is amended by inserting the 
+following new section immediately after section 6A— 
+ Imposition of non-
+resident rental 
+income tax. 
+6B. (1) Where the income of a non -
+resident person is accrued in or derived 
+from the use or occupation of property 
+situated in Kenya, a tax to be known as 
+non-resident rental income tax shall be 
+payable by that non-resident person  at 
+the rate specified in the Third Schedule 
+which shall be a final tax on the income. 
+  (2) A non-resident person subject to 
+the tax payable under subsection (1 ) 
+shall— 
+  (a) register and account for the tax 
+through a simplified registration 
+framework prescribed by the 
+Commissioner; and 
+  (b) submit a return and pay the tax 
+due on or before the twentieth 
+day of the month following the 
+end of the month for which the 
+rent is paid. 
+  (3) Subsection (2) shall not apply 
+where the income accrued in or derived 
+from the use or occupation of the 
+property received by a resident person 
+on behalf of the non -resident person 
+who is subject to the deduction of tax 
+specified in section 35(3)(j). 
+
+--- PAGE 5 ---
+The Finance Bill, 2026 
+ 
+ 
+5 
+ 
+Amendment of 
+section 8 of Cap. 
+470. 
+5. Section 8 of the Income Tax Act is amended by 
+deleting subsection (5A). 
+Amendment to 
+section 9 of Cap. 
+470. 
+6. Section 9 of the Income Tax Act is amended by 
+inserting the following new subsection immediately 
+after subsection (1)— 
+ (1A) The tax charged under subsection (1) 
+shall be payable within five days after the payment 
+is received or the ship leaves the port of lading, 
+whichever is earlier. 
+Amendment to 
+section 10 of Cap. 
+470. 
+7. Section 10 of the Income Tax Act is amended in 
+subsection (1), by adding the following new paragraphs 
+immediately after paragraph (m)— 
+ (n) sale of scrap metal; 
+ (o) winnings. 
+Repeal and 
+replacement of 
+section 11 of Cap. 
+470. 
+8. The Income Tax Act is amended by repealing 
+section 11 and replacing it with  the following new 
+section— 
+ Trust income 
+deemed income of 
+trustee. 
+11. (1) Any income chargeable to tax 
+and received by a person in the capacity 
+of a trustee, executor or administrator, 
+shall be deemed to be the income of that 
+trustee, executor or administrator. 
+  (2) Dividend or interest which is 
+included in the income of the trustee, 
+executor or administrator under 
+subsection (1) shall  not be subject to 
+further tax under this Act. 
+  (3) Where a trustee, executor or 
+administrator has paid tax on the 
+chargeable income of the trust, a 
+beneficiary of the trust shall not be liable 
+to pay tax on that income. 
+
+--- PAGE 6 ---
+The Finance Bill, 2026 
+ 
+ 
+6 
+ 
+Amendment of 
+section 12 of Cap. 
+470. 
+9. Section 12 of the Income Tax Act is amended in 
+subsection (1) , by deleting paragraph (a) and 
+substituting therefor the following new paragraph— 
+ (a) if to the best of his judgement and belief he 
+will have no income chargeable to tax for that 
+year of income other than emoluments. 
+Insertion of a new 
+section 12H to Cap. 
+470. 
+10. The Income Tax Act is amended by inserting the 
+following new section immediately after section 12G— 
+ Tax on income from 
+importation of worn 
+clothing and other 
+worn articles 
+12H. (1) Notwithstanding any other 
+provision of this Act, a tax shall be 
+payable by a person in respect of income 
+derived from the importation into Kenya 
+of worn clothing, worn footwear and 
+other worn articles classified under 
+tariff heading 6309. 
+  (2) For the purposes of computing 
+the tax under subsection (1), the taxable 
+profit shall be deemed to be five per cent 
+of the customs value of the imported 
+goods. 
+  (3) The tax payable under this 
+section shall be due and payable upon 
+importation and prior to the release of 
+the goods and shall be a final tax in 
+respect of the income. 
+Amendment of 
+section 15 of Cap. 
+470. 
+11. Section 15 of the Income Tax Act is amended in 
+subsection (2), by inserting the following new paragraph 
+immediately after paragraph (ae)— 
+ (af) in the case of an employee, the amount of 
+interest, not exceeding three hundred and 
+sixty thousand shillings, deducted for the 
+repayment of a loan advanced by the Central 
+Bank of Kenya for the construction, purchase 
+or improvement of a house occupied by the 
+employee. 
+
+--- PAGE 7 ---
+The Finance Bill, 2026 
+ 
+ 
+7 
+ 
+Amendment of 
+section 16 of Cap. 
+470.  
+12. Section 16 of the Income Tax Act is amended in 
+subsection (2)(j)(iii)(E) by deleting the words “lending 
+and leasing business” appearing after the words 
+“involved in” and substituting therefor the words 
+“lending or leasing business, or both”. 
+Amendment of 
+section 18D of Cap. 
+470. 
+13. Section 18D of the Income Tax Act is 
+amended— 
+ (a) in subsection (1), by deleting the expression 
+“subsection ( 3)” appearing after the words 
+“accordance with” and substituting therefor 
+the expression “subsection (2)”; 
+ (b) in subsection (2), by deleting the expression 
+“subsection (1)”  appearing after the words 
+“accordance with” and substituting therefor 
+the expression “subsections (1) and (1A)”; 
+ (c) in subsection (5), by deleting the expression 
+“subsection (1)”  appearing after the words 
+“accordance with” and substituting therefor 
+the expression “subsections (1) and (1A)”. 
+Amendment of 
+section 18F of Cap. 
+470. 
+14. Section 18F of the Income Tax Act is 
+amended— 
+ (a) in the definition of “a country -by-country 
+report”, by  deleting the expression “section 
+18D(1)”  appearing after the words “filed 
+under” and substituting therefor the 
+expression “section 18D(1) and (1A)”; 
+ (b) in the definition of “excluded multinational 
+enterprise group”, by deleting the expression 
+“section 18D(1)”  appearing after the words 
+“specified in” and substituting therefor the 
+expression “section 18D(1B)”; 
+ (c) by deleting the definition of “ultimate parent 
+entity” and substituting therefor the following 
+new definition— 
+
+--- PAGE 8 ---
+The Finance Bill, 2026 
+ 
+ 
+8 
+ 
+ “ultimate parent entity” means a 
+constituent entity of a multinational enterprise 
+group where— 
+ (a) the constituent entity owns directly or 
+indirectly a sufficient interest in one or 
+more other constituent entities of the 
+multinational enterprise group; 
+ (b) the constituent entity is required to 
+prepare consolidated financial 
+statements under accounting 
+principles generally applied in its 
+jurisdiction of tax residence, or would 
+be so required if its equity interests 
+were traded on a public securities 
+exchange in its jurisdiction of tax 
+residence; and  
+ (c) there is no other constituent entity of 
+the multinational enterprise group that 
+owns directly or indirectly a sufficient 
+interest in any of the other constituent 
+entities of the multinational enterprise 
+group. 
+Amendment of 
+section 19 of Cap. 
+470. 
+15. Section 19 of the Income Tax Act is amended— 
+ (a) in subsection (5)— 
+ (i) by deleting the words “life insurance 
+fund” appearing in paragraph (a) and 
+substituting therefor the words “statutory 
+fund”; and 
+ (ii) by deleting the words “life insurance 
+fund” appearing in p aragraph (b) and 
+substituting therefor the words “statutory 
+fund”; 
+ (b) in subsection (5A), by deleting the words “life 
+insurance fund” wherever they occur and 
+
+--- PAGE 9 ---
+The Finance Bill, 2026 
+ 
+ 
+9 
+ 
+substituting therefor the words “statutory 
+fund”; 
+ (c) in subsection (6), by deleting the words “life 
+insurance fund” appearing in paragraph (b) 
+and substituting therefor the words “statutory 
+fund”; 
+ (d) in subsection (6A), by deleting the words “life 
+insurance fund” wherever they occur and  
+substituting therefor the words “statutory 
+fund”; 
+ (e) in subsection 7— 
+ (i) in the definition of “annuity fund” , by 
+deleting the words “life insurance fund” 
+wherever they occur and substituting 
+therefor the words “statutory fund”;  
+ (ii) by deleting the definition of “life 
+insurance fund”; 
+ (iii)by inserting the following new definition 
+in proper alphabetical sequence— 
+ 
+Cap. 487. 
+“statutory fund” mean s  a fund 
+established under  section 45 of the 
+Insurance Act. 
+Repeal of section 
+23A of Cap. 470. 16. The Income Tax Act is amended by repealing 
+section 23. 
+Amendment of 
+section 24 of Cap. 
+470. 
+17. Section 24 of the Income Tax Act is amended in 
+subsection (1), by deleting the words “that part of the 
+income” appearing after the words “he may direct that”,  
+and substituting therefor the words “at least sixty per 
+cent of that part of the income”. 
+Amendment of 
+section 35 of Cap. 
+470. 
+18. Section 35 of the Income Tax Act is amended— 
+ (a) in subsection (1)— 
+
+--- PAGE 10 ---
+The Finance Bill, 2026 
+ 
+ 
+10 
+ 
+ (i) by deleting subparagraph (iii) appearing in 
+paragraph (a); 
+ (ii) by deleting paragraph (u); 
+ (iii)by adding the following new paragraph s 
+immediately after paragraph (u)— 
+ (v) the sale of scrap metal; 
+ (w) winnings; 
+ (b) in subsection (3) ,  by adding the following 
+new paragraph immediately after paragraph 
+(o)—  
+ (p) the sale of scrap metal; 
+ (q) winnings. 
+Amendment of 
+section 52 of Cap. 
+470. 
+19. Section 52 of the Income Tax Act is amended— 
+ (a) in subsection (1) , by deleting the words 
+“within a reasonable time, not being less than 
+thirty days from the date of service of the 
+notice” appearing immediately after the words 
+“furnish him”, and substituting therefor the 
+words “by the last day of the fourth month 
+following the end of the person’s year of 
+income”; 
+ (b) by inserting the following new subsection 
+immediately after subsection (1)— 
+ (1A) Where the tax return submitted under 
+subsection (1) relates to a nil amount of tax 
+payable, the person required to submit the tax 
+return shall submit the return within one 
+month following the end of the year of income 
+to which the return relates. 
+Amendment of 
+section 52B of Cap. 
+470. 
+20. Section 52B of the Income Tax Act is 
+amended— 
+
+--- PAGE 11 ---
+The Finance Bill, 2026 
+ 
+ 
+11 
+ 
+ (a) in subsection (1)— 
+ (i) by deleting the words “including a self -
+assessment of his tax from all sources of 
+income, not later than the last day of the 
+sixth month following the end of his year 
+of income” appearing in paragraph (i) and 
+substituting therefor the words “by the last 
+day of the fourth month following the end 
+of the person’s year of income”; 
+ (ii) by deleting the words “including a self -
+assessment of his tax from all sources of 
+income, not later than the last day of the 
+sixth month following the end of his year 
+of income” appearing in paragraph (ii) and 
+substituting therefor the words “by the last 
+day of the fourth month following the end 
+of the person’s year of income”; 
+ (b) by inserting the following new subsection 
+immediately after subsection (1)— 
+ (1A) Where the tax return submitted 
+under subsection (1) relates to a nil amount of 
+tax payable, the person required to submit the 
+tax return shall submit the return within one 
+month following the end of the year of income 
+to which the return relates. 
+Amendment of the 
+First Schedule to 
+Cap. 470. 
+21. Part I of the First Schedule to the Income Tax is 
+amended— 
+ (a) in paragraph 53 ,  by adding the following 
+paragraph immediately after paragraph (c) of 
+the proviso— 
+ (d) benefits arising due to death; 
+ (b) inserting the following new paragraph 
+immediately after paragraph 75— 
+ 76. Any capital gains relating to the transfer 
+of property to a real estate investment trust 
+
+--- PAGE 12 ---
+The Finance Bill, 2026 
+ 
+ 
+12 
+ 
+registered by the Commissioner under 
+section 20(1). 
+Amendment of the 
+Second Schedule to 
+Cap. 470. 
+22. The Second Schedule to the Income Tax Act is 
+amended in the table appearing in paragraph 1(1), by 
+adding the words “per year, in equal instalments” 
+immediately after the expression “10%” appearing in 
+item (a)(viii). 
+Amendment of the 
+Third Schedule to 
+Cap. 470. 
+23. Head B of the Third Schedule to the Income Tax 
+Act is amended— 
+ (a) in paragraph 2, by deleting subparagraph (i); 
+ (b) in paragraph 3— 
+ (i) by deleting the proviso to subparagraph 
+(d); 
+ (ii) by inserting the following new 
+subparagraphs immediately after 
+subparagraph (w)— 
+ (x) in respect of the sale of scrap metal, 
+one and a half per  cent of the gross 
+amount; 
+ (y) in respect of winnings, twenty per  
+cent; 
+ (c) in paragraph 5 ,  adding the following new 
+subparagraphs immediately after 
+subparagraph (p)— 
+ (q) in respect of the sale of scrap metal, one 
+and a half per cent of the gross amount; 
+ (r) in respect of winnings, twenty per cent; 
+ (d) in paragraph 10, by deleting the words “seven 
+point five  percent”  appearing immediately 
+after the words “shall be” and substituting 
+therefor the word “ten percent”. 
+
+--- PAGE 13 ---
+The Finance Bill, 2026 
+ 
+ 
+13 
+ 
+Amendment of the 
+Eighth Schedule to 
+Cap. 470. 
+24. Paragraph 2 of the Eighth Schedule to the 
+Income Tax Act is amended— 
+ (a) in subparagraph (c), by deleting the 
+expression “subparagraph (a)”  appearing 
+immediately after the words “to which”  and 
+substituting therefor the expression 
+“subparagraph (b)”; 
+ (b) by adding the following new subparagraph 
+immediately after subparagraph (c)— 
+ (d) gains derived from the alienation of shares 
+by a non-resident person where the shares 
+derive their value from Kenya or the 
+alienation results in a change of the group 
+membership of a company resident in 
+Kenya or of ownership of, title in, or 
+interest in property located in Kenya. 
+Amendment of the 
+Ninth Schedule to 
+Cap. 470. 
+25. The Ninth Schedule to the Income Tax Act is 
+amended— 
+ (a) in paragraph 2, by adding the following new 
+subparagraph immediately after subparagraph 
+(3)— 
+ (4) The non -resident tax rates for repatriated 
+income by a licensee under section 7B 
+shall be fifteen per cent. 
+ (b) in paragraph 7— 
+ (i) in subparagraph (3), by deleting the words 
+“thirty-seven and a half  percent” 
+appearing in item (b)  immediately after 
+the word s “non -resident company” and 
+substitute therefor the words “thirty 
+percent”; 
+ (ii) by adding the following new paragraph 
+immediately after subparagraph (3)— 
+
+--- PAGE 14 ---
+The Finance Bill, 2026 
+ 
+ 
+14 
+ 
+ (4) The non -resident tax rates for 
+repatriated income by a contractor under 
+section 7B shall be fifteen per cent. 
+ PART III—VALUE ADDED TAX 
+Amendment of 
+section 2 of Cap. 
+476. 
+26. Section 2 of the Value Added Tax Act is 
+amended in subsection (1)— 
+ (a) by deleting the definition of “assessment”; 
+ (b) by deleting the definition of “information 
+technology”; 
+ (c) by deleting the definition of “tax 
+computerized system”. 
+Amendment of 
+section 13 of Cap. 
+476. 
+27. Section 13 of the Value Added Tax Act is 
+amended in subsection (6), by deleting paragraph (a) and 
+substituting therefor the following new paragraph— 
+ 
+ 
+ 
+ 
+Cap. 507. 
+(a) in the case of a supply of goods from a person 
+licenced to carry on hire  purchase business 
+under a hire purchase agreement registered in 
+accordance with the Hire  Purchase Act, any 
+financial charge payable in relation to the 
+supply of credit under the agreement. 
+Insertion of a new 
+section 17A to Cap. 
+476. 
+28. The Value Added Tax Act is amended by 
+inserting the following new section immediately after 
+section 17— 
+ Adjustment of input 
+tax after supplies 
+become exempt. 
+17A. (1) Where, on the date taxable 
+supplies by a registered person become 
+exempt and the person has deducted 
+input tax on such supplies but the 
+supplies remain unsold, the person shall 
+account for an amount equal to the input 
+tax relating to the supplies which remain 
+unsold in the tax return of the period 
+when the taxable supply became 
+exempt. 
+
+--- PAGE 15 ---
+The Finance Bill, 2026 
+ 
+ 
+15 
+ 
+  (2) When accounting for input tax 
+under subsection (2), the person shall 
+use the method used when input tax was 
+deducted in respect of the supplies 
+before the date the supplies became 
+exempt. 
+  (3) Where the adjustment results in 
+excess input tax, the person shall be 
+liable to pay the resulting tax to the 
+Commissioner. 
+Amendment of 
+section 31 of Cap. 
+476. 
+29. Section 31 of the Value Added Tax Act is 
+amended in subsection (1), by deleting the word s “two 
+years” appearing in paragraph (a) immediately after the 
+words “period of” and substituting therefor the word s 
+“three years”.  
+Amendment of 
+section 42 of Cap. 
+476. 
+30. Section 42 of the Value Added Tax Act is 
+amended— 
+ (a) in subsection (1) , by deleting the word 
+“registered person” appearing immediately 
+after the expression “subsection (2), a” and 
+substituting therefor the word “person”; 
+ (b) by deleting subsection (2) and substituting 
+therefor the following new subsection— 
+ (2) An invoice showing an amount that 
+purports to be tax shall only be issued in 
+respect of a taxable supply. 
+Repeal of section 66 
+of Cap. 476. 31. The Value Added Tax Act is amended by 
+repealing section 66. 
+Amendment of First 
+Schedule to Cap. 
+476.  
+32. Section A of the First Schedule to the Value 
+Added Tax Act is amended— 
+ (a) in Part I— 
+ (i) by adding the following new tariff  
+number and corresponding descriptions to 
+the table appearing immediately after 
+
+--- PAGE 16 ---
+The Finance Bill, 2026 
+ 
+ 
+16 
+ 
+paragraph 39 in proper numerical 
+sequence— 
+ Tariff number  Description 
+ 3002.90.00 Human blood; animal blood 
+prepared for therapeutic, 
+prophylactic or diagnostic 
+uses 
+ (ii) by deleting paragraph 49; 
+ (iii) in paragraph 51— 
+ (A) by inserting the words “spare parts” 
+immediately after the word 
+“lubricants” appearing in paragraph 
+51; 
+ (B) by adding the following new 
+proviso— 
+ Provided that any exemption granted 
+for spare parts before the 30 th June 
+2026, shall apply until the 
+conclusion on the project. 
+ (iv) by deleting paragraph 58; 
+ (v) by deleting paragraph 62; 
+ (vi) by deleting the words “any other aircraft 
+spare” appearing in paragraph 89 and 
+substituting therefor the word “aircraft”; 
+ (vii) by deleting the words “three hundred” 
+appearing in paragraph 99(i) and 
+substituting therefore the words “two 
+thousand”; 
+ (viii) by deleting paragraph 109; 
+ (ix) by deleting paragraph 153; 
+
+--- PAGE 17 ---
+The Finance Bill, 2026 
+ 
+ 
+17 
+ 
+ (x) by adding the following new paragraphs 
+immediately after paragraph 157— 
+ 158. Dialyzers of tariff number 
+8421.29.00. 
+ 159. Scrap metal. 
+ 160. Inputs or raw materials locally 
+purchased or imported for the 
+manufacture of animal feeds upon 
+recommendation by the Cabinet 
+Secretary for the time being 
+responsible for matters relating to 
+agriculture. 
+ 161. Inputs or raw materials locally 
+purchased or imported for the 
+manufacture of pharmaceutical 
+products upon recommendation by 
+the Cabinet Secretary for the time 
+being responsible for matters 
+relating to health. 
+ 162. Transportation of sugarcane from 
+farms to milling factories. 
+ 163. The supply of imported or locally 
+purchased  telephones for cellular 
+networks and other wireless 
+networks. 
+ 164. The supply of motorcycles of tariff 
+heading 8711.60.00. 
+ 165. The supply of electric bicycles. 
+ 166. The supply of solar and lithium-ion 
+batteries. 
+ 167. The supply of electric buses of 
+tariff heading 87.02. 
+ 168. Bioethanol vapour (BEV) Stoves 
+classified under HS Code 
+
+--- PAGE 18 ---
+The Finance Bill, 2026 
+ 
+ 
+18 
+ 
+7321.12.00 (cooking appliances 
+and plate warmers for liquid fuel). 
+ 169. Worn clothing and other worn 
+articles of tariff heading 6309, 
+other than upon importation. 
+ 170. The supply of goods for the direct 
+and exclusive use in the 
+implementation of infrastructure 
+projects undertaken under a public 
+private partnership framework, 
+upon approval by the Cabinet 
+Secretary on the recommendation 
+of the Cabinet Secretary for the 
+Ministry responsible for the 
+implementation of the project. 
+ (b) in Part II— 
+ (i) in paragraph 1, by deleting subparagraph 
+(b) and substituting therefor the following 
+new subparagraph— 
+ (b) the issue, transfer, receipt or any other 
+dealing with money, including money 
+transfer services, and accepting over 
+the counter payments of household 
+bills, but does not include— 
+ (i) the services of carriage of cash, 
+restocking of cash machines, 
+sorting or counting of money; and 
+ (ii) money transfers, payment 
+processing, settlement, merchants 
+acquiring, gateway or aggregation 
+services supplied  over a software 
+or platform for a fee or 
+commission by a payment service 
+provider; 
+
+--- PAGE 19 ---
+The Finance Bill, 2026 
+ 
+ 
+19 
+ 
+ (ii) paragraph 25 is amended by inserting the 
+following new definitions— 
+ For the purposes of this paragraph— 
+  “tour operator” means a tour or safari 
+operator licensed as such by the competent 
+authority responsible for regulating and 
+overseeing the tourism sector; and 
+ “in-house supplies” means supplies made 
+from a tour operator’s own resources; or 
+bought from third parties but materially 
+altered so that the supply made is 
+substantially different to that purchased. 
+ (iii)by deleting paragraph 26; 
+ (iv) by adding the following new paragraph 
+immediately after paragraph 38— 
+ 39. The supply of services for the direct 
+and exclusive use in the 
+implementation of infrastructure 
+projects undertaken under a public 
+private partnership framework, upon 
+approval by the Cabinet Secretary on 
+the recommendation of the Cabinet 
+Secretary for the Ministry responsible 
+for the implementation of the project. 
+Amendment of 
+Second Schedule to 
+Cap. 476. 
+33. The Second Schedule to the Value Added Tax 
+Act is amended in Part A— 
+ (a) by deleting paragraph 11; 
+ (b) by deleting paragraph 21; 
+ (c) by deleting paragraph 29; 
+ (d) by deleting paragraph 30; 
+ (e) by deleting paragraph 31; 
+ (f) by deleting paragraph 32; 
+
+--- PAGE 20 ---
+The Finance Bill, 2026 
+ 
+ 
+20 
+ 
+ (g) by deleting paragraph 33; 
+ (h) by deleting paragraph 34; 
+ (i) by deleting paragraph 35; 
+ PART IV—EXCISE DUTY 
+Amendment of the 
+section 2 of Cap. 
+472. 
+34. Section 2 of the Excise Duty Act is amended— 
+ (a) in the definition of “import” , by adding the 
+following proviso— 
+ Provided that where the goods originate from 
+an East African Community Partner State and 
+meet the East African Community Rules of 
+Origin, the goods shall not be considered an 
+import; 
+ 
+ 
+(b) by inserting the following new definition in 
+proper alphabetical sequence— 
+ “antique, vintage or “classic vehicle” 
+means a motor vehicle whose year of first 
+registration is at least thirty years before the 
+date of purchase of the motor vehicle  and 
+whose value is at least ten million shillings 
+exclusive of depreciation. 
+Amendment of 
+section 2 of Cap. 
+472. 
+35. Section 6 of the Excise Duty Act is amended  by 
+inserting the following new subsection immediately 
+after subsection (4)— 
+ (4A) Despite subsections (1) and (4), the 
+liability of an importer or a  licensed 
+manufacturer for excise duty on  a locally 
+purchased or imported  telephones for cellular 
+networks and other wireless networks shall arise 
+at the time of the activation of the phone. 
+ (4B) The Cabinet Secretary may make 
+regulations for the better carrying out of 
+subsection (4A). 
+
+--- PAGE 21 ---
+The Finance Bill, 2026 
+ 
+ 
+21 
+ 
+Amendment of 
+section 36 of Cap. 
+472. 
+36. Section 36 of the Excise Duty Act is amended— 
+ (4A) Despite subsection s (1) and ( 3), the 
+excise duty payable in respect of  telephones for 
+cellular networks and other wireless networks  
+shall be paid to the Commissioner by the time 
+of the activation of the phone. 
+ (4B) The Cabinet Secretary may make 
+regulations for the better carrying out of 
+subsection (4A). 
+Amendment of the 
+First Schedule to 
+Cap. 472. 
+37. The First Schedule to the Excise Duty Act is 
+amended— 
+ (a) in Part I, in the second table— 
+ (i) by deleting the description “imported 
+cellular phones” and the 
+corresponding rate of excise duty and 
+substituting therefor the following 
+new description and rate of excise 
+duty— 
+ Tariff Description Rate of excise duty 
+ Telephones for cellular networks 
+and other wireless networks of 
+tariff heading 8517. 
+25% of the 
+excisable value. 
+ (ii) by deleting the description “ fruit 
+juices (including grape must) and 
+vegetable juice, unfermented and not 
+containing added spirit, whether or 
+not containing added sugar or other 
+sweetening matter” and the 
+corresponding rate of excise duty; 
+ (iii) in the description “bottled or 
+similarly packaged waters and other 
+non-alcoholic beverages, not 
+including fruit or vegetable juices”, 
+by deleting the words “bottled or 
+
+--- PAGE 22 ---
+The Finance Bill, 2026 
+ 
+ 
+22 
+ 
+similarly packaged waters and other” 
+appearing immediately before the 
+words “non-alcoholic beverages, not 
+including fruit or vegetable juices”; 
+ (iv) in the description “Beer, Cider, Perry, 
+Mead, Opaque beer and mixtures of 
+fermented beverages with non -
+alcoholic beverages and spirituous 
+beverages of alcoholic strength not 
+exceeding 6%”, by deleting the 
+proviso to the corresponding rate of 
+excise duty;   
+ (v) in the description “spirits of 
+undenatured extra neutral alcohol of 
+alcoholic strength exceeding 90%  
+purchased by licensed manufacturers 
+of spirituous beverages ” by deleting 
+the words “purchased by licensed 
+manufacturers of spirituous 
+beverages”;  
+ (vi) in the description “cigars, cheroots, 
+cigarillos, containing tobacco or 
+tobacco substitutes” by deleting the 
+corresponding rate of excise duty and 
+substituting therefor the new rate of 
+excise duty of “Ksh. 18,000 per kg”; 
+ (vii) in the description “other 
+manufactured tobacco and 
+manufactured tobacco substitutes; 
+“homogenous” and “reconstituted 
+tobacco”; tobacco extracts and 
+essences” by deleting the 
+corresponding rate of excise duty and 
+substituting therefor the following 
+new rate of excise duty “Ksh. 12,550 
+per kg”; 
+ (viii) in the description “Imported sugar 
+confectionary of tariff heading 
+
+--- PAGE 23 ---
+The Finance Bill, 2026 
+ 
+ 
+23 
+ 
+17.04” by deleting the word 
+“imported; 
+ (ix) by deleting the description “imported 
+articles of plastic of tariff heading 
+3923.30.00” and the corresponding 
+rate of excise duty; 
+ (x) in the description “imported ceramic 
+sinks, wash basins, wash basin 
+pedestals, baths, bidets, water closet 
+pans, flushing cisterns, urinals and 
+similar sanitary fixtures of tariff 
+heading 6910” by deleting the 
+corresponding rate of excise duty and 
+substituting therefor the following 
+new rate of excise duty— 
+ “5% of the excisable value or Ksh. 50 
+per kg, whichever is higher”; 
+ (xi) by deleting the description “imported 
+articles of plastic of tariff heading 
+3923.30.00 and 3923.90.00” and the 
+corresponding rate of excise duty; 
+ (xii) in the description “Imported Glass 
+bottles (excluding imported glass 
+bottles for packaging of 
+pharmaceutical products)”, by 
+deleting the proviso; 
+ (xiii) in the description “Imported furniture 
+of tariff heading 9403 excluding 
+furniture originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”, by 
+deleting the words “excluding those 
+originating from East Afr ican 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+
+--- PAGE 24 ---
+The Finance Bill, 2026 
+ 
+ 
+24 
+ 
+ (xiv) in the description “Imported printed 
+paper or paperboard of tariff heading 
+4811.41.90 or 4811.49.00 but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”, by 
+deleting the words “but  excluding 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+ (xv) in the description “Imported plates of 
+plastic of tariff heading 3919.90.90, 
+3920.10.90, 3920.43.90, 3920.62.90 
+and 3921.19.90 but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xvi) in the description “Imported paper or 
+paper board, labels of all kinds 
+whether or not printed of tariff 
+heading 4821.10.00 and 4821.90.00 
+but excluding those originating from 
+East African Community Partner 
+States that meet the East African 
+Community Rules of Origin”, by 
+deleting the words “but excluding 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+ (xvii) in the description “Imported printing 
+ink of tariff 3215.11.00 and 
+3215.19.00 but excluding those 
+
+--- PAGE 25 ---
+The Finance Bill, 2026 
+ 
+ 
+25 
+ 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xviii) in the description “Imported Float 
+glass and surface ground or polished 
+glass, in sheets, whether or not having 
+an absorbent, reflecting or non -
+reflecting layer, but not otherwise 
+worked of tariff 7005 but excluding 
+those imported by a registered 
+processor upon the recommendation 
+by the Cabinet Secretary responsible 
+for matter relating to industry and 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin, by deleting the words “and 
+those originatin g from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+ (xix) in the description “Imported other 
+self-adhesive plates, sheets, film, foil, 
+tape, strip and other flat shapes, of 
+plastics, whether or not in rolls of 
+tariff number 3919.90.90, but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”, by 
+deleting the words “ but excluding 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+
+--- PAGE 26 ---
+The Finance Bill, 2026 
+ 
+ 
+26 
+ 
+ (xx) in the description “Imported printed 
+polymers of ethylene of other plates, 
+sheets, film, foil and strip, of plastics, 
+noncellular and not reinforced, 
+laminated, supported or similarly 
+combined with other materials of 
+tariff number 3920.10.90, but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”, by 
+deleting the words “ but excluding 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+ (xxi) in the description “Imported printed 
+polymers of vinyl chloride containing 
+by weight not less than 6% of other 
+plates, sheets, film, foil and strip, of 
+plastics, noncellular and not 
+reinforced, laminated, supported or 
+similarly combined with other 
+materials of tariff number 
+3920.43.90, but excluding those 
+originating from East African  
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner Stat es 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxii) in the description “Imported printed 
+poly (ethylene terephthalate) of 
+polycarbonates, alkyd resins, 
+polyallyl esters or other polyesters of 
+other plates, sheets, film, foil and 
+strip, of plastics, noncellular and not 
+reinforced, laminated, supported or 
+
+--- PAGE 27 ---
+The Finance Bill, 2026 
+ 
+ 
+27 
+ 
+similarly of tariff number 
+3920.62.90, but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxiii) in the description “Imported printed 
+cellular of other plastics of other 
+plates, sheets, film, foil and strip of 
+tariff number 3921.19.90, but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules  of Origin”, by 
+deleting the words “ but excluding 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+ (xxiv) in the description “Printed self -
+adhesive paper of tariff number 
+4811.41.90, but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxv) in the description “Gummed paper 
+and paperboard of tariff number 
+4811.49.00 but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+
+--- PAGE 28 ---
+The Finance Bill, 2026 
+ 
+ 
+28 
+ 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxvi) in the description “Imported 
+Uncoated kraft paper and paperboard, 
+in rolls or sheets; kraftliner; 
+unbleached of tariff number 
+4804.11.00 but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxvii) in the description “Imported other 
+kraft paper or paperboard weighing 
+150g/m² or less, in rolls or sheets; 
+unbleached of tariff number 
+4804.31.00 but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxviii) in the description “Imported other 
+kraft paper or paperboard weighing 
+more than 150g/m² but less than 225 
+g/m², in rolls or sheets; unbleached of 
+tariff number 4804.41.00 but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”, by 
+
+--- PAGE 29 ---
+The Finance Bill, 2026 
+ 
+ 
+29 
+ 
+deleting the words “ but excluding 
+those originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”; 
+ (xxix) in the description “Imported other 
+kraft paper or paperboard weighing 
+225 g/m² or more others in rolls or 
+sheets; unbleached of tariff number 
+4804.51.00 but excluding those 
+originating from East African 
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxx) in the description “Imported Glass of 
+heading 70.03, 70.04 or 70.05, bent, 
+edge-worked, engraved, drilled, 
+enamelled or otherwise worked, but 
+not framed or fitted with other 
+materials of Tariff Heading 70.06, but 
+excluding those from East Africa 
+Community Partner States that meet 
+the East Africa Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxxi) in the description “Imported safety 
+glass of tariff numbers 7007.19.00 
+and 7007.29.00 but excluding those 
+originating from East African  
+Community Partner States that meet 
+the East African Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+
+--- PAGE 30 ---
+The Finance Bill, 2026 
+ 
+ 
+30 
+ 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”; 
+ (xxxii) in the description “Imported 
+Multiple-walled insulating units of 
+glass of Tariff Heading 70.08, but 
+excluding those from East Africa 
+Community Partner States that meet 
+the East Africa Community Rules of 
+Origin”, by deleting the words “ but 
+excluding those originating from East 
+African Community Partner States 
+that meet the East African 
+Community Rules of Origin”. 
+ (xxxiii) in the description “s pirits of 
+undenatured extra neutral alcohol of 
+alcoholic strength exceeding 90% 
+purchased by licensed manufacturers 
+of spirituous beverages ” by deleting 
+the corresponding rate of excise duty 
+and substituting therefor the 
+following new rate of excise duty— 
+ “kshs. 80 per litre” 
+ (xxxiv) by adding the following new tariff 
+descriptions and corresponding rates 
+of excise duty— 
+ Tariff Description Rate of excise duty 
+Articles of plastic of tariff heading 
+3923.30.00 and 3923.90.90  
+10% 
+Coal 5% of the excisable 
+value 
+Antique, vintage and classic 
+vehicles  
+50% of the 
+excisable value 
+
+--- PAGE 31 ---
+The Finance Bill, 2026 
+ 
+ 
+31 
+ 
+ Fruit juices (including grape must) 
+and vegetable juice, unfermented 
+and not containing added spirit. 
+Ksh. 14.14 per litre 
+ Fruit juices (including grape must) 
+and vegetable juice, unfermented , 
+containing added sugar or other 
+sweetening matter  and not 
+containing added spirit 
+Kshs. 20 per litre 
+ (b) in Part II — 
+ (i) in paragraph 4A, by deleting the words 
+“into a customer’s betting wallet” 
+appearing immediately after the word 
+“deposited” and substituting therefor the 
+words “for betting purposes”; 
+ (ii) by deleting the proviso to paragraph 4A; 
+ (iii) in paragraph 4B, by deleting the words 
+“into a customer’s betting wallet”  
+appearing immediately after the word 
+“deposited” and substituting therefor the 
+words “for gambling purposes”; 
+ (iv)  by inserting the word “service” 
+immediately before the word “providers” 
+appearing in paragraph 9; 
+ (c) in Part III— 
+ (i) by deleting the definition of “amount 
+deposited into a customer’s betting 
+wallet”; 
+ (ii) by inserting the following new definitions 
+in proper alphabetical sequence— 
+ “amount deposited” means the total 
+value of money or money’s worth paid, 
+transferred, credited, or otherwise made 
+available for betting or gambling purposes 
+to a person who has been issued a licence 
+
+--- PAGE 32 ---
+The Finance Bill, 2026 
+ 
+ 
+32 
+ 
+under the Gambling Control Act, whether 
+provided by a player or the operator, 
+whether in cash or cash equivalents, 
+whether or not such amount is held in a n 
+account operated by a player, operator or 
+licensed person , or converted into chips, 
+tokens, tickets, credits, or similar 
+instruments; 
+ 
+No. 20 of 2025.No. 
+20 of 2025. 
+“virtual asset” has the meaning 
+assigned to it in section 2 of the Virtual 
+Asset Service Providers Act, 2025; 
+ “virtual asset service provider” has the 
+meaning assigned to it in section 2 of the 
+Virtual Asset Service Providers Act, 2025. 
+Amendment of the 
+Second Schedule to 
+Cap. 472 
+38. The Second Schedule to the Excise Duty Act is 
+amended in Part A, by inserting the words “National 
+Intelligence Service” immediately after the words 
+“Kenya Defence Forces” appearing in paragraph 11. 
+ PART V—TAX PROCEDURES 
+Amendment of 
+section 3 of Cap. 
+469B. 
+39. Section 3 of the Tax Procedures Act is amended 
+in subsection (1)— 
+ (a) by deleting the definition of “certificate of 
+origin; 
+ (b) by inserting the following new definition in 
+proper alphabetical sequence— 
+ 
+No. 20 of 2025.No. 
+20 of 2025. 
+“virtual asset” has the meaning assigned 
+to it in section 2 of the Virtual Asset Service 
+Providers Act, 2025; 
+ “virtual asset service provider” has the 
+meaning assigned to it in section 2 of the 
+Virtual Asset Service Providers Act, 2025. 
+Amendment of 
+section 6A of Cap. 
+469B. 
+40. Section 6A of the Tax Procedures Act is 
+amended by deleting subsection (4). 
+
+--- PAGE 33 ---
+The Finance Bill, 2026 
+ 
+ 
+33 
+ 
+Insertion of a new 
+section 6C in Cap. 
+469B. 
+41. The Tax Procedures Act is amended by inserting 
+the following new section s immediately after section 
+6B— 
+ Virtual asset 
+service providers 
+to file 
+information 
+returns. 
+6C. (1) Each virtual asset service 
+provider shall file an information return 
+with the Commissioner in respect of all 
+the virtual -asset users with which it 
+maintains a relationship in every 
+calendar year and that are identified as 
+reportable users or as having controlling 
+persons that are reportable persons. 
+  (2) A virtual asset provider shall be 
+required to file the information return 
+under subsection (1) if the virtual asset 
+service provider provides a service that 
+effectuates exchange transactions or 
+making available a trading platform on 
+behalf of a custome r, and includes 
+acting as a counterparty, or as an 
+intermediary, to the exchange    
+transactions. 
+  (3) A person who makes a false 
+statement in an information return under 
+subsection (1) commits an offence and 
+shall be liable on conviction to a fine of 
+one hundred thousand shillings for each 
+false statement, or imprisonment for a 
+term not exceeding three  years, or to 
+both. 
+  (4) A person who omits any 
+information required to be included in 
+an information return under subsection 
+(1), shall be liable to a penalty of one 
+hundred thousand shillings for each 
+omission. 
+  (5) A person shall not be liable 
+under subsection (3) or (4) where the 
+information required to be included in 
+
+--- PAGE 34 ---
+The Finance Bill, 2026 
+ 
+ 
+34 
+ 
+an information return under subsection 
+(1) is in respect of another person and a 
+reasonable effort was made by the 
+person to obtain the information from 
+that other person. 
+  (6) A virtual asset service provider 
+that fails to file an information return or 
+a “nil” information return when required 
+under subsection (1) shall be liable to 
+pay a penalty of one million shillings for 
+each failure. 
+ Agreements for 
+the automatic 
+exchange of 
+information with 
+other countries on 
+virtual asset 
+transactions. 
+6D. (1) Kenya may enter into an 
+agreement with another country for the 
+automatic exchange of information 
+relating to transactions involving virtual 
+assets. 
+  (2) An agreement under subsection 
+(1) shall provide for the exchange of 
+information relating to— 
+  (a) information returns filed under 
+section 6C(1). 
+  (b) due diligence reporting and 
+record keeping obligations 
+prescribed under this section; 
+  (c) the virtual asset users with 
+which a virtual asset service 
+provider maintains a 
+relationship in every calendar 
+year and that are identified as 
+reportable users or as having 
+controlling persons that are 
+reportable persons; 
+  (d) nil return filings by virtual asset 
+service providers who do not 
+maintain a relationship with 
+virtual asset users that are 
+identified as reportable users or 
+
+--- PAGE 35 ---
+The Finance Bill, 2026 
+ 
+ 
+35 
+ 
+as having controlling persons 
+that are reportable persons; and 
+  (e) arrangements or practices by 
+virtual asset service providers, 
+the main purpose or one of the 
+main purposes of which can 
+reasonably be considered to be 
+to avoid obligations imposed 
+under this Act. 
+  (5) In this section— 
+  “information return” means a report, 
+setting out prescribed information 
+which a reporting virtual -asset service 
+provider is required to file with the 
+Commissioner. 
+  (6) The Cabinet Secretary may 
+make regulations necessary for the 
+implementation of this section. 
+Amendment of 
+section 10 of Cap. 
+469B. 
+42. Section 10 of the Tax Procedures Act is amended 
+by inserting the following new subsections immediately 
+after subsection (8)— 
+ (9) Where a person who was deregistered under 
+this section qualifies for registration under section 8, 
+shall apply to the Commissioner for reinstatement of 
+the registration. 
+ (10) Where the Commissioner is satisfied that the 
+applicant under subsection (9) is liable for tax under 
+a tax law, the Commissioner shall register the person 
+and issue the person the same PIN that had been 
+issued to the person prior to the deregistration. 
+Amendment of 
+section 12 of Cap. 
+469B. 
+43. Section 12 of the Tax Procedures Act is amended 
+by inserting the following new subsection immediately 
+after subsection (5A)— 
+
+--- PAGE 36 ---
+The Finance Bill, 2026 
+ 
+ 
+36 
+ 
+  (5B) A non -resident person shall be exempt 
+from the requirement of a PIN when opening an 
+account with an investment bank. 
+Insertion of new 
+section 18A to Cap 
+469B. 
+44. The Tax Procedures Act is amended by inserting 
+the following new section immediately after section 
+18— 
+ Tax avoidance 
+schemes. 18A. (1) Where the Commissioner 
+determines in accordance with the 
+information obtained under subsection 
+(2) that— 
+  (a) a person has entered into or 
+carried out a tax avoidance 
+scheme; 
+  (b) a person has obtained a tax 
+benefit in connection with the 
+scheme; and 
+  (c) the purpose of enabling the 
+person referred to in paragraph 
+(b) is to obtain a tax benefit, 
+  the Commissioner may determine the 
+tax liability of the person who obtained 
+the tax benefit as if the scheme had not 
+been entered into or carried out. 
+  (2) The Commissioner shall rely 
+on— 
+ Cap. 470.Cap. 470. (a) information submitted to the 
+Commissioner under section 
+35(5) of the Income Tax Act; 
+  (b) the accounting of tax deducted 
+under section 37(1) of the 
+Income Tax Act; 
+  
+Cap. 469.. 469. 
+(c) information submitted to the 
+Commissioner under section 5A 
+
+--- PAGE 37 ---
+The Finance Bill, 2026 
+ 
+ 
+37 
+ 
+of the Kenya Revenue Authority 
+Act; 
+  (d) information submitted through 
+the electronic system established 
+under section 23A; 
+  (e) information submitted to the 
+Commissioner under section 
+24A; 
+  (f) information obtained from the 
+inspection of goods and records 
+conducted under section 58; 
+  (g) information obtained from the 
+auditing of the records produced 
+under section 59; or 
+  (h) information submitted to the 
+data management and reporting 
+system established under section 
+59A; or 
+  (i) information submitted to the 
+Commissioner under any other 
+written law, 
+  to make a determination under 
+subsection (1). 
+  (3) The Commissioner shall issue to 
+the person referred to in subsection (1) 
+(b) an assessment of the tax liability 
+determined under subsection (1) within 
+five years from the last day of the tax 
+period to which the tax liability relates. 
+  (4) In this section— 
+  “scheme” includes a course of 
+action, and an agreement, arrangement, 
+promise, plan, proposal, or undertaking, 
+
+--- PAGE 38 ---
+The Finance Bill, 2026 
+ 
+ 
+38 
+ 
+whether express or implied, and 
+whether or not legally enforceable; and  
+  “tax benefit” means – 
+  (a) a reduction in the liability of a 
+person to pay tax; 
+  (b) an increase in the entitlement of 
+a person to a deduction for input 
+tax; 
+  (c) an entitlement to a refund; 
+  (d) a postponement of a liability for 
+the payment of tax; 
+  (e) an acceleration of an entitlement 
+to a deduction for input tax; 
+  (f) any other advantage arising 
+because of a delay in payment of 
+tax or an acceleration of the 
+entitlement to a deduction for 
+input tax; 
+  (g) anything that causes a taxable 
+supply or taxable import not to 
+be a taxable supply or taxable 
+import, as the case may be; or 
+  (h) anything that gives rise to a 
+deduction for input tax for an 
+acquisition or import that is used 
+or is intended to be used other 
+than in making taxable supplies. 
+Insertion of a new 
+section 29A of 
+Cap. 469B. 
+45. The Tax Procedures Act is amended by inserting 
+the following new section immediately after section 
+29— 
+ Commissioner to 
+issue an 
+assessment. 
+29A. (1) The Commissioner may, in 
+accordance with the information 
+obtained in accordance with subsection 
+
+--- PAGE 39 ---
+The Finance Bill, 2026 
+ 
+ 
+39 
+ 
+(2), issue an assessment on the income 
+of a person as he may deem necessary. 
+  (2) The Commissioner shall rely 
+on— 
+  (a) the information submitted to the 
+Commissioner under section 
+35(5); 
+  (b) the accounting of tax deducted 
+under section 37(1); 
+ Cap. 469. (c) the information submitted to the 
+Commissioner under section 5A 
+of the Kenya Revenue Authority 
+Act; 
+ Cap. 469B. (d) the information submitted to the 
+electronic system established 
+under section 23A of the Tax 
+Procedures Act; 
+  (e) the information submitted to the 
+Commissioner under section 
+24A; 
+  (f) the information obtained from 
+the inspection of goods and 
+records conducted under section 
+58; 
+  (g) the information obtained from 
+the auditing of the records 
+produced under section 59;  
+  (h) the information submitted to the 
+data management and reporting 
+system established under section 
+59A; or 
+  (i) the information submitted to the 
+Commissioner under written 
+law, 
+
+--- PAGE 40 ---
+The Finance Bill, 2026 
+ 
+ 
+40 
+ 
+  to issue an assessment under subsection 
+(1). 
+Amendment of 
+section 37E of 
+Cap. 469B. 
+46. Section 37E of the Tax Procedures Act is 
+amended— 
+ (a) in subsection (1), by deleting the expression 
+“31st December, 2023” appearing 
+immediately after the words “due before the” 
+and substituting therefor the expression “ 31st 
+December, 2025”; 
+ (b) in subsection (2), by deleting the expression 
+“31st  December, 2023”  appearing 
+immediately after the words “paid before 
+the” and substituting therefor the expression 
+“31st December, 2025”; 
+ (c) in subsection (3)— 
+ (i) in paragraph (a), by deleting the 
+expression “31 st December, 2023”  
+appearing immediately after the words 
+“up to the” and substituting therefor the 
+expression “31st December, 2025”; 
+ (ii) in paragraph (b), by deleting the 
+expression “30 th June, 2025”  appearing 
+immediately after the words “later than 
+the” and substituting therefor the 
+expression “31st December, 2026”; 
+ (d) in subsection (4)— 
+ (i) by deleting the expression “31 st 
+December, 2023”  appearing 
+immediately after the words “as on the” 
+and substituting therefor the expression 
+“31st December, 2025”; 
+ (ii) by deleting the expression “30 th June, 
+2025”  appearing immediately after the 
+words “unpaid on the” and substituting 
+
+--- PAGE 41 ---
+The Finance Bill, 2026 
+ 
+ 
+41 
+ 
+therefor the expression “3 1st December, 
+2026”. 
+Amendment of 
+section 39A of 
+Cap. 469B. 
+47. Section 39A of the Tax Procedures Act is 
+amended by deleting subsection (2). 
+Amendment of 
+section 42 of Cap. 
+469B. 
+48. Section 42 of the Tax Procedures Act is amended  
+subsection (14), by deleting paragraph (e). 
+Repeal of section 
+44A of Cap. 
+469B. 
+49. The Tax Procedures Act is amended by repealing 
+section 44A. 
+Amendment of 
+section 47 to Cap. 
+469B. 
+50. Section 47 of the Tax Procedures Act is amended 
+in subsection (1), by deleting the words “and value 
+added tax payable on imports” appearing in paragraph 
+(a). 
+Amendment of 
+section 73 of Cap. 
+469B. 
+51. Section 75 of the Tax Procedures Act is amended 
+by adding the following new section immediately after 
+subsection (2)— 
+ (3) The Commissioner may use the information 
+technology contemplated under subsection (1) to 
+generate a prepopulated tax return on behalf of a 
+person required to submit or lodge a tax return. 
+ (4) A person required to submit or lodge a tax 
+return may rely on the prepopulated return generated 
+by the Commissioner under subsection (3) to submit 
+or lodge the return. 
+Amendment of 
+section 77 of Cap. 
+469B. 
+52. Section 77 of the Tax Procedures Act is amended 
+by deleting subsection (2). 
+Repeal and 
+replacement of 
+section 86 of 
+Cap.469B. 
+53. The Tax Procedures Act is amended by repealing 
+section 86 and replacing it with the following new 
+section— 
+ Failure to comply 
+with electronic tax 
+system. 
+86. (1) Where the Commissioner 
+determines that a taxpayer has failed to 
+comply with the requirement under a tax 
+law to issue an electronic tax invoice, 
+submit a tax return in electronic form, or 
+pay tax electronically  pursuant to 
+
+--- PAGE 42 ---
+The Finance Bill, 2026 
+ 
+ 
+42 
+ 
+section 75, the Commissioner shall issue 
+a notice in writing to the taxpayer 
+requiring the taxpayer to provide 
+reasons for the non-compliance. 
+  (2) Upon receipt of the response of 
+the taxpayer as required under 
+subsection (1), the Commissioner shall 
+consider whether— 
+  (a) the failure to comply arose from 
+circumstances beyond the 
+reasonable control of the 
+taxpayer;  
+  (b) the failure to comply was not 
+due to the wilful neglect or 
+deliberate default of the 
+taxpayer; and 
+  (c) the taxpayer took reasonable 
+steps to comply with the relevant 
+requirement as soon as 
+practicable. 
+  (3) Where the Commissioner is not 
+satisfied by the reasons given under 
+subsection (2), the taxpayer shall be 
+liable to pay the higher of the following 
+penalties— 
+  (a) two times the value of the tax 
+due; 
+  (b) one hundred thousand shillings; 
+or  
+  (c) in the case of an individual, ten 
+thousand shillings.  
+Amendment of 
+section 89 of Cap. 
+469B. 
+54. Section 89 of the Tax Procedures Act is 
+amended— 
+ (a) in subsection (5A)— 
+
+--- PAGE 43 ---
+The Finance Bill, 2026 
+ 
+ 
+43 
+ 
+ (i) in paragraph (c), by deleting the words 
+“due to a malfunction of an electronic tax 
+system” appearing immediately after the 
+word “interest”;  
+ (ii) by inserting the following new paragraph 
+immediately after paragraph (c)— 
+ (ca) a malfunction of an electronic tax 
+system; 
+ (b) by inserting the following new subsection 
+immediately after subsection (5A)— 
+ (5B) Despite subsection (5A), the 
+Commissioner may waive the whole or part 
+of any penalty or interest imposed under this 
+Act where the liability to pay the penalty or 
+interest does not exceed two million shillings 
+and was due to an error generated by an 
+electronic tax system. 
+Amendment to 
+section 112 of Cap. 
+469B. 
+55. Section 112 of the Tax Procedures Act is 
+amended in subsection (2) by inserting the following 
+new paragraph immediately after paragraph (b)— 
+ (ba) the procedure for the submission or lodging 
+of returns based on prepopulated tax returns 
+generated by the Commissioner. 
+ PART VI—MISCELLANEOUS FEES AND 
+LEVIES 
+Amendment of 
+section 2 of Cap. 
+469C. 
+56. Section 2 of the Miscellaneous Fees and Levies 
+Act is amended in subsection (1) by deleting the 
+definition of “East African Community Partner States” 
+and substituting therefor the following new definition— 
+ “East African Community Partner States” means 
+the Republic of Kenya, the Republic of Uganda and 
+the United Republic of Tanzania and any other 
+country granted membership to the Community 
+
+--- PAGE 44 ---
+The Finance Bill, 2026 
+ 
+ 
+44 
+ 
+under Article 3 of the Treaty Establishing the East 
+African Community. 
+Amendment of 
+section 7 of Cap. 
+469C 
+57. Section 7 of the Miscellaneous Fees and Levies 
+Act is amended— 
+ (a) in subsection (6), by deleting the words 
+“twenty percent”  appearing immediately 
+after the expression “subsection (2)” and 
+substituting therefor the words “ten percent”; 
+ (b) in subsection (7), by deleting the words 
+“while ten percent shall be used for revenue 
+enforcement initiatives”   appearing 
+immediately after the word “obligation”. 
+Amendment of 
+section 9 of Cap. 
+469C. 
+58. Section 9 of the Miscellaneous Fees and Levies 
+Act is amended by deleting the words “import 
+declaration fee, railway development levy and export 
+levy”  appearing immediately after the words “payment 
+of” and substituting therefor the words “the fees and 
+levies imposed under Part III”. 
+Amendment of the 
+Second Schedule to 
+Cap. 469C 
+59. The Second Schedule to the  Miscellaneous Fees 
+and Levies Act is amended— 
+ (a) in Part A— 
+ (i) by deleting paragraph (xv) and 
+substituting therefor the following new 
+paragraph— 
+ (xv) all parts of chapter 88 and goods of 
+tariff heading 8802.30.00 and 
+8802.40.00; 
+ (ii) by inserting the following new 
+paragraph immediately after paragraph 
+(xxxii)— 
+ (xxxiii) imported  telephones for cellular 
+networks and other wireless 
+networks; 
+
+--- PAGE 45 ---
+The Finance Bill, 2026 
+ 
+ 
+45 
+ 
+ 
+ (b) in Part B— 
+ (i) by deleting paragraph (xiii) and 
+substituting therefor the following new 
+paragraph— 
+ (xiii) all parts of chapter 88 and goods of 
+tariff heading 8802.30.00 and 
+8802.40.00; 
+ (ii) by inserting the following new 
+paragraph immediately after paragraph 
+(xviii)— 
+ (xix) imported  telephones for cellular 
+networks and other wireless 
+networks. 
+ PART VII—STAMP DUTY 
+Amendment to 
+section 96A of Cap. 
+480.  
+60. Section 96A of the Stamp Duty Act is amended 
+in subsection (1) by adding the following new paragraph 
+immediately after paragraph (b)— 
+ (c)  that the effect thereof is to convey or transfer 
+a beneficial interest in property from a 
+person or persons to the real estate 
+investment trust. 
+
+--- PAGE 46 ---
+The Finance Bill, 2026 
+ 
+ 
+46 
+ 
+MEMORANDUM OF OBJECTS AND REASONS 
+The Finance Bill, 202 6, has been submitted by the Cabinet Secretary for 
+the National Treasury and formulates proposals relating to revenue raising 
+measures including liability to, and collection of taxes. 
+The Bill proposes to amend the Income Tax Act (Cap.  470), the Value 
+Added Tax Act (Cap.  476), the Excise Duty Act (Cap. 472), the Tax 
+Procedures Act (Cap. 469B), the Miscellaneous Fees and Levies Act (Cap. 
+469C) and the Stamp Duty Act (Cap. 480). 
+ 
+ 
+ 
+HON. KIMANI KURIA MP, 
+Chairperson, 
+Finance and National Planning Committee. 
+
+--- PAGE 47 ---
+14 May 2026
+kpmg.com/eastafrica
+Kenya
+Finance Bill, 2026
+KPMG Analysis
+KPMG. Make the Difference.
+
+
+--- PAGE 48 ---
+2
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Excise Duty Miscellaneous Fees 
+& Levies Act
+Finance Bill, 2026 Analysis
+Foreword
+The theme of the 2026 Budget Policy Statement (BPS) is “Accelerating Gains 
+under the Bottom-Up Economic Transformation Agenda for Inclusive and 
+Sustainable Growth." The BPS sets out the Government’s fiscal strategy, 
+policy priorities and medium-term expenditure framework against a backdrop 
+of global uncertainty. To sustainably finance its growth ambitions, the 
+Government has approved establishment of a National Infrastructure Fund and 
+a Sovereign Wealth Fund to mobilize domestic resources, monetize public 
+assets and attract private capital.
+In 2025, the global economy demonstrated resilience, with growth estimated at 
+3.3 percent. This performance was on the back of easing trade tensions, 
+improved financial conditions, and robust consumer and business spending. 
+Going into 2026, the global outlook will be constrained by elevated policy 
+uncertainty, ongoing geopolitical tensions, and potential for renewed trade 
+fragmentation.
+Locally, economic growth momentum was sustained in 2025 at an average of 
+4.6%, a marginal decline from 4.7% in 2024. The growth in GDP was 
+supported by a robust agricultural sector, recovery in industry and continued 
+dynamism in services. The economic growth is expected to continue in 2026 
+although the impact of ongoing geopolitical tensions is starting to cause strain.
+The Finance Bill, 2026 has focused on changes that widen the tax base and 
+enhance compliance to meet the expected tax revenue of KES 3.533 trillion, 
+made up of ordinary revenues of KES 2.901 trillion and appropriations-in-aid 
+of KES 632 billion. 
+Among the proposed changes is the introduction of a new taxation framework 
+for rental income of non-resident persons who accrue or derive income from 
+the use or occupation of property situated in Kenya. Further, the Bill proposes 
+to introduce withholding tax on interchange fees, a proposal that is a reaction 
+to recent court decisions where the government failed in its attempt to tax 
+interchange fees under the current legal provisions.
+For personal income taxes, the Bill expounds on the scope of the tax 
+exemption on gratuity contributions by introducing new eligibility conditions. A 
+critical missing provision is the promise made by the government to expand 
+the tax bands to reduce the tax budget for lower income earners. 
+On VAT, the Bill has proposed to bring to charge digital and platform based 
+financial services. There are also several changes to the VAT Act Schedules. 
+Notable is the proposed standard rating of supply of electric motorcycles, 
+electric buses and electric bicycles. 
+The Bill further proposes to revise the timelines for filing income tax returns for 
+both individuals and companies by changing the filing deadline from six 
+months to four months after the end of the year of income. Additionally, the 
+deadline for nil returns will be one month after the end of the year of income.
+A significant change under the Tax Procedures Act is the proposal to extend 
+the tax amnesty on interest, penalties and fines relating to tax liabilities to 31 
+December 2025, provided that the principal tax is settled on or before 31 
+December 2026.
+In the following sections, we present our detailed analysis of the proposed 
+changes.
+
+--- PAGE 49 ---
+3
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Excise Duty Miscellaneous Fees 
+& Levies Act
+Finance Bill, 2026 Analysis
+Income Tax- 
+Corporation Tax
+
+--- PAGE 50 ---
+4
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporate Income Tax
+Amendments to the definition of ‘immovable property’
+Proposed amendment: The Bill proposes to amend the 
+definition of ‘immovable property’ under Section 2 by 
+deleting the word “and” appearing immediately after the 
+words immovable property at the end of item (a) and 
+substituting therefor the word “or”’. 
+Implication: The proposal seeks to expand the definition 
+of immovable property. The use of the word “or” means 
+that each item listed under Section 2 of the Income Tax 
+Act can independently qualify as immovable property. In 
+contrast, the current use of “and” implies that the listed 
+items (land and mining rights) can be assessed as 
+separately. 
+Proposed effective date: 1 July 2026
+
+--- PAGE 51 ---
+5
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Expansion of definition of Management or Professional fees
+Proposed amendment: The Bill proposes to expand the definition of 
+“management fee ” under Section 2 of the Income Tax Act to include interchange 
+fees and merchant service fees arising from transactions that use card as a 
+means of payment.
+Implication: By broadening these definitions, the Bill significantly widens the base 
+of payments subject to withholding tax as management/professional fees 
+particularly in the digital, fintech, banking and payments ecosystems.
+In light of the Supreme Court’s decision in Commissioner of Domestic Taxes v 
+Absa Bank Kenya PLC, which held that interchange fees do not constitute 
+management or professional fees for purposes of withholding tax, the Bill’s 
+proposal represents a material legislative shift. By expressly expanding the 
+definition of “management fee” to include interchange fees and merchant service 
+fees arising from card-based payment transactions, the government appears to be 
+reacting to the ruling to specifically provide for the taxation of these fees.
+Proposed effective date: 1 July 2026
+
+
+--- PAGE 52 ---
+6
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Taxing Offshore Landlords: New Non-Resident Rental Tax Regime
+Proposed amendment: The Bill proposes to introduce a specific tax regime 
+for non-resident landlords earning rental income from property situated in 
+Kenya. The proposal imposes a final withholding tax on gross rental income as 
+follows:
+• 30% on rent, premium, or similar payments for immovable property.
+• 15% where the rent relates to property other than immovable property.
+Further, the proposed change will require non-resident landlords to register 
+and account for the tax through a simplified registration framework, submit a 
+return, and remit the tax by the twentieth day of the following month. 
+Implication: The proposed change will have an increased compliance burden 
+unless they appoint a resident agent to handle their withholding and filings 
+obligations, in which case, they are exempt from the simplified registration 
+framework.
+Proposed effective date: 1 July 2026
+
+--- PAGE 53 ---
+7
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Introduction of Timelines for Remittance of Carriage Income Tax
+Proposed amendment: The Bill proposes to introduce a requirement for tax on carriage income derived in Kenya to be paid within five days of the earlier 
+of receipt of payment or when the ship leaves the port of lading. Following this change, the Bill has proposed to delete the withholding tax requirement for 
+carriage income.
+Implication Deleting Section 35(1)(u) removes the existing withholding tax framework on gains from carriage income earned by ship owners or charterers. 
+Receivers of carriage income are now expected to account for the tax directly. The proposed timelines will also mean that for most sea shipments the tax 
+will have been accounted for by the time the vessel docks in Kenya. 
+Proposed effective date: 1 July 2026
+
+
+--- PAGE 54 ---
+8
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+No more pass-through: Trust income deemed at trustee level
+Proposed amendment: The Bill proposes to delete Section 11 and introduce the following new section which provides that:
+Implication: The proposal clarifies the tax treatment of  trust income by placing the tax liability on trustees, executors, or administrators, while 
+preventing double taxation by exempting beneficiaries and excluding qualifying dividend and interest income from further taxation.
+Proposed effective date: 1 July 2026
+01 0302
+Any Income chargeable to tax received by a person in capacity 
+of a trustee, executor or administrator shall be deemed to be 
+income of that trustee, executor or administrator.
+Tax on dividend or interest income included in 
+the income of a trustee, executor or 
+administrator shall be final and not subject to 
+further tax.
+Where tax has been paid by the trustee, executor or 
+administrator, the beneficiary of the  shall not be liable 
+to pay tax on that income.
+
+--- PAGE 55 ---
+9
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Drawing the line on instalment tax
+Proposed amendment: The Bill proposes to replace paragraph (a) of 
+Section 12 of the Income Tax Act to remove references to Section 12D, 
+which was repealed by the Finance Act, 2025.Under the new provision, 
+a person will be exempt from paying instalment tax where, to the best 
+of their judgement and belief, they expect to have no income 
+chargeable to tax for the year of income other than emoluments (PAYE 
+income).
+Implication:  The amendment updates and simplifies the instalment tax 
+exemption framework by aligning it with the current structure of the 
+Income Tax Act, without reliance on the repealed Section 12D.
+Proposed effective date: 1 July 2026
+
+--- PAGE 56 ---
+10
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Broadening of interest restriction exemption rules
+Proposed amendment: The Bill proposes to amend the phrase 
+“lending and leasing business” which appears after the words 
+“involved in” under Section 16 (2)(j)(iii)(E) of the Income Tax Act 
+and replace it with the phrase “lending or leasing; or both”.
+Implication: Previously, only non-deposit-taking institutions 
+engaged in both lending and leasing qualified for exemption from 
+the interest restriction rules. The proposed amendment preserves 
+the existing exemption but broadens its application to include 
+non-deposit-taking institutions that carry on either lending or 
+leasing activities, rather than requiring involvement in both.
+Proposed effective date: 1 July 2026
+
+--- PAGE 57 ---
+11
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Insurance business – alignment of terminology with “statutory fund”
+Proposed amendment: The Bill amends Section 19 of the Income Tax Act to replace references to “life insurance fund” with “statutory fund”, 
+aligning the ITA terminology with that used in the Insurance Act and sector regulation. 
+Implication: This is primarily a harmonisation and clarification measure for the insurance sector, ensuring that the income tax law references the correct 
+regulatory construct for life assurance business. While not expected to have a material tax-cost impact on its own, it should reduce interpretation  
+uncertainty when applying tax rules to life business within the statutory fund* framework. 
+*Statutory fund (under Section 45 of the Insurance Act): is a dedicated fund established and maintained by an insurer for each class of long-term 
+insurance business (such as life insurance) they conduct.
+Proposed effective date: 1 July 2026
+“ “The Bill amends Section 19 of the Income Tax Act to replace references to the “life insurance fund” with 
+“statutory fund”, aligning the ITA terminology with that is used in the Insurance Act and sector regulation.
+
+--- PAGE 58 ---
+12
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Repeal of Section 23 of the Income Tax Act on tax avoidance
+Proposed amendment: The Bill proposes to repeal Section 23 of the Income Tax Act, which currently allows the Commissioner to adjust a taxpayer’s 
+liability where a transaction is considered to have been primarily undertaken to avoid or reduce tax. This changes removes duplication as the provision 
+is provided for in the Tax Procedures Act (TPA), with certain modifications.
+Implication: This proposed amendment is aimed at eliminating overlap, given that comparable anti-avoidance measures are already addressed under 
+the TPA. In particular, it is consistent with the proposed introduction of section 18A to the TPA, which brings together and broadens the Commissioner’s 
+authority to counter tax avoidance arrangements across all tax statutes within a single, harmonised framework.
+Proposed effective date: 1 July 2026
+
+
+--- PAGE 59 ---
+13
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Introduction of minimum deemed dividend on undistributed profits
+Proposed amendment: The Bill proposes to replace the words “that part of the income” in Section 24(1) of the Income Tax Act with the words “at 
+least sixty percent of that part of the income”.
+Implication: The earlier provision lacked precision regarding the proportion of undistributed income that the Commissioner could recharacterize as 
+dividends. The proposed amendment resolves this ambiguity by introducing a defined minimum threshold, establishing a floor of 60% of undistributed 
+income that may be treated as a deemed dividend.
+This change is likely to have a significant impact on businesses with high retained earnings, particularly where profits are not distributed despite 
+adequate liquidity. By setting a minimum deemed-dividend threshold, the amendment reduces the scope for deferring tax through profit retention and 
+increases the likelihood of additional tax exposure. With this development, businesses who wish to grow organically by reinvesting undistributed 
+income will be required to produce sufficient supporting documentation to demonstrate that such retention is driven by genuine commercial needs, 
+including business expansion, capital expenditure, debt servicing, or other legitimate operational purposes, rather than for tax avoidance.
+Proposed effective date: 1 July 2026
+
+--- PAGE 60 ---
+14
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Revision of Income Tax Return Filing Timelines
+Proposed amendment: The proposal seeks to amend Section 52 and 52B by 
+changing the statutory deadline for filing income tax returns from six months to 
+four months after the end of the year of income. 
+Implication: This is expected to enhance tax compliance and administrative 
+efficiency for the revenue authority. If enacted, the shorter deadline gives 
+taxpayers less time to prepare and file returns, increasing pressure to keep 
+records up to date and potentially raising compliance costs. Some taxpayers 
+may face a higher risk of late filing penalties if they do not adjust quickly to 
+the new timeline. 
+Proposed effective date: 1 January 2027
+Returns with Nil amount of tax payable due within a month
+Proposed amendment: The proposal seeks to amend Section 52B to 
+require that where a self assessment return by an individual or a 
+company relates to a nil amount of tax payable, the return will be due 
+for submission within one month after the end of the relevant year of 
+income. 
+Implication:  The proposed amendment requires individuals and 
+companies with no tax payable to submit their self-assessment 
+returns within one month after the end of the year of income. This 
+earlier deadline helps the tax authority confirm non-liability 
+sooner and strengthens oversight by keeping compliance records 
+up to date. However, it places an additional burden on taxpayers 
+to finalize accounts and documentation immediately after 
+year-end, where no tax is due and especially in instances where 
+a company is in a tax loss position. 
+Proposed effective date: 1 January 2027
+
+--- PAGE 61 ---
+15
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Exemption of Benefits Arising Due to Death
+Proposed amendment: The proposal seeks to amend Part I of the First Schedule to the Income Tax Act by including benefits arising due to death among 
+the exempt incomes under paragraph 53.
+Implication: The amendment will exempt benefits arising due to death from income tax, thereby reducing the tax burden on beneficiaries and providing 
+financial relief to grieving families.
+Proposed effective date: 1 January 2027
+Amendment to Exempt Property Transfers to Registered REITs from Capital Gains Tax
+Proposed amendment: The proposal seeks to amend Part I of the First Schedule to the Income Tax Act by introducing an exemption from tax to any 
+capital gains arising from the transfer of property to a Real Estate Investment  (REIT) registered by the Commissioner under Section 20(1).
+Implication: If enacted, the exemption will remove capital gains tax on property transfers to registered REITs, reducing the tax cost of restructuring or 
+injecting assets into REIT vehicles. This is likely to encourage property owners and developers to participate in REITs, supporting growth and liquidity in the 
+real estate investment market.
+Proposed effective date: 1 January 2027
+
+--- PAGE 62 ---
+16
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+Clarification on Annual Claim of Capital Deduction in Equal 
+Instalments
+Proposed amendment: The proposal seeks to amend the Second 
+Schedule to the Income Tax Act by clarifying that the 10% investment 
+deduction rate applicable under item (a)(viii) shall be claimed annually 
+in equal instalments.
+Expansion of Capital Gains Tax on Indirect Transfers by Non-
+Residents
+Proposed amendment: The proposal amends paragraph 2 of the 
+Eighth Schedule by correcting an internal cross-reference in 
+subparagraph (c) (so that it now refers to subparagraph (b) instead of 
+subparagraph (a)) and, more substantively, by introducing a new 
+subparagraph (d) to tax gains derived by non-residents from the 
+disposal of shares where those shares derive their value from Kenya, 
+or where the disposal results in a change in group membership of a 
+Kenyan resident company or a change in ownership, title, or interest 
+in property located in Kenya.
+Implication: The proposal broadens Kenya’s capital gains tax 
+scope to capture indirect transfers of Kenyan assets by 
+non-residents. By taxing gains from the disposal of shares that 
+either derive their value from Kenya or result in changes to the 
+ownership or group membership of Kenyan companies or 
+property, it brings offshore share sales and group restructurings 
+that effectively transfer Kenyan businesses or property within the 
+Kenyan tax net, thereby limiting opportunities for non-residents to 
+avoid Kenyan tax through foreign holding structures.
+Proposed effective date 1 July 2026
+Implication: The amendment seeks to clarify that the 10% 
+deduction will be claimed annually in equal instalments, 
+thereby providing certainty regarding both the timing and 
+method of claiming the allowance for tax purposes.
+Proposed effective date 1 July 2026
+
+--- PAGE 63 ---
+17
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Corporation Tax
+A new deal for non-resident extractive players
+Proposed amendment: The proposal revises the tax regime for non-residents operating in the extractive or petroleum sector under the Ninth Schedule. It 
+introduces a specific 15% tax rate on repatriated income for non-resident licensees under section 7B and a corresponding 15% rate on repatriated income for 
+non-resident contractors under the same section, thereby clarifying and standardizing the taxation of profit remittances out of Kenya. In addition, it reduces the 
+income tax rate for non-resident companies in paragraph 7(3)(b) from 37.5% to 30%.
+Implication:  The proposal reduces the income tax rate for certain non-resident companies from 37.5% to 30% and introduces a clear 15% tax rate on 
+repatriated income for both non-resident licensees and contractors under section 7B. This lowers the overall tax burden for affected non-resident investor and 
+clarifies the tax cost of profit remittances. This approach also aligns more closely with the resident corporate rate and potentially enhancing Kenya’s 
+competitiveness and attractiveness to foreign investors in the sector.
+Proposed effective date 1st July 2026
+
+
+--- PAGE 64 ---
+18
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Deleting current definition of “royalty’ and expanding the new definition
+Proposed amendment: The Bill proposes to delete the current definition of “royalty” and 
+substitute it with a new definition to mean a payment made as consideration for—
+(a) the use or the right to use:
+I. any copyright of a literary, artistic or scientific work;
+II. any software, proprietary or off-the-shelf, whether in the form of licence, development, 
+training, maintenance or support fees;
+III. any cinematograph film including a film or tape for radio or television broadcasting; 
+IV. any patent, trademark, design or model, plan, formula or process;
+V. any industrial, commercial or scientific equipment;
+VI. information concerning industrial, commercial or scientific equipment or experience, 
+and any gains derived from the sale or exchange of any right or property giving rise to 
+that royalty; or
+VII. a proprietary digital platform, payment network, payment-card scheme, payment 
+processing system, switching system, clearing system or settlement system, including 
+access, participation or usage rights in such system through a card, whether the 
+consideration is periodic or transaction-based and whether or not the payment is 
+described as a service fee, transaction fee, network fee, assessment fee, processing 
+fee or similar charge; or
+(b) the distribution of software where regular payments are made for the use of the 
+software through the distributor.
+Implication: The expanded definition of “royalty” 
+would bring a wider range of digital and 
+payment-related fees into the tax net, subjecting 
+them to withholding tax where they were previously 
+non-taxable. 
+If enacted, this may increase the cost of payments 
+made to both resident and non-resident service 
+providers, particularly in cross-border arrangements 
+involving digital platforms, payment networks, and 
+software distribution. The change may also impose 
+additional withholding and compliance obligations on 
+payers and could lead to higher costs being passed 
+on to customers, while increasing the risk of disputes 
+and double taxation if treaty relief or sourcing rules 
+are unclear.
+Proposed effective date: 1 July 2026
+
+--- PAGE 65 ---
+19
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Amendment of the definition of Withdrawals
+Proposed amendment: The Bill proposes to delete the definition 
+of “withdrawals” and substitute it with a new definition which 
+defines “withdrawals” to mean any amount of money, cash 
+equivalent, or money’s worth paid or disbursed to the account of a 
+player, by a person licensed under the Gambling Control Act, 
+2025.
+Implication: The amendment broadens the definition of 
+“withdrawals” beyond amounts taken from a betting or gaming 
+wallet to include any money, cash equivalent, or money’s worth 
+paid or disbursed to a player’s account by a licensed gambling 
+operator. This expands the tax base by capturing all forms of 
+gambling payouts, not just wallet withdrawals, to enhance tax 
+collection and compliance in the gambling sector.
+Proposed effective date: 1 July 2026
+
+--- PAGE 66 ---
+20
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Amendment of the definition of Winnings
+Proposed amendment: The Bill proposes to introduce a new 
+definition of “winnings” to mean a pay-out by a person licensed 
+under the Gambling Control Act, 2025, from a lottery or prize 
+competition, excluding the amount staked or wagered.
+Implication: The introduction of this definition clarifies that only 
+the net gain from gambling activities is considered “winnings” 
+for tax purposes, excluding the original stake. This ensures 
+fairer taxation by focusing on the actual economic benefit while 
+reducing ambiguity and disputes. 
+Proposed effective date: 1 July 2026
+
+--- PAGE 67 ---
+21
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Expansion of Withholding Tax Scope to Scrap Metal Sales and Gambling Winnings
+Proposed amendment: The Bill proposes to amend Sections 10 and 35, as well as the 
+Third Schedule to the Income Tax Act, to include income from the sale of scrap metal and 
+winnings within the scope of withholding tax. Specifically, withholding tax will apply at a rate 
+of 1.5% on the gross amount for scrap metal transactions and 20% on winnings, applicable 
+to both residents and non-residents.
+Implication: The amendment broadens the withholding tax regime to include scrap metal 
+transactions and gambling winnings, strengthening revenue collection at source. It seeks to 
+fully enforce the provision introduced under the Tax Laws Amendment Act, 2024 by 
+anchoring it under Section 10 of the Income Tax Act, thereby creating a clear legal 
+obligation for purchasers to deduct and remit tax. While a similar proposal appeared in the 
+Finance Act, 2025 and was subsequently dropped, its reintroduction signals the 
+government’s renewed intent to bring the scrap metal sector within the withholding tax 
+framework.
+Applying a 1.5% tax on the gross proceeds from scrap metal sales may improve 
+compliance in a largely informal sector, though it could impact cash flows for traders 
+operating on thin margins since the tax applies on gross amounts rather than profits. The 
+20% WHT on winnings is significant and will interact with the existing betting tax and excise 
+duty burden, increasing the effective tax cost on gamblers and possibly on operators’ 
+pricing strategies.
+Proposed effective date: 1 July 2027
+
+
+--- PAGE 68 ---
+22
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Introduction of withholding tax obligation on national airline carrier
+Proposed amendment: The Bill proposes to delete Section 35(1)(a)(iii) 
+of the Income Tax Act. Section 35 currently exempts from withholding tax 
+payments made by the national carrier to non-resident service providers 
+for specialised technical, maintenance, compliance, training, or digital 
+systems support services, where such services are unavailable locally or 
+the provider is certified or accredited by an international regulatory, 
+standard-setting, or licensing authority. 
+Implication: This proposal may increase the cost of procuring essential 
+foreign expertise, particularly where such services are not available 
+locally, and may raise operational expenses for the national carrier. 
+Proposed effective date: 1 July 2026
+
+--- PAGE 69 ---
+23
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Exemption from withholding tax on payments made to ship and aircraft carriers 
+Proposed amendment: The Bill proposes to delete Section 35(1)(u) of the Income Tax Act which currently provides for withholding tax on gains from 
+carriage income by ship owner or charterer. 
+Implication: The removal of the withholding tax obligation will immediately reduce the tax compliance burden to non-resident carriers operating in 
+Kenya. While this may make Kenya a more attractive hub for international shipping and aviation operators, it would potentially result in loss of revenue 
+for the government. The income will now be paid directly by the ship owners or charterer within 5 days of receiving payment or departure from the port 
+of lading. 
+Proposed effective date: 1 July 2026
+
+
+--- PAGE 70 ---
+24
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Withholding Tax
+Exemption from withholding tax on payments made to ship and aircraft carriers 
+Proposed amendment: The Bill proposes to remove the proviso to subparagraph 3(d) under Head B of the Third Schedule to the Income Tax Act, 
+which currently stipulates that dividends payable to citizens of East African Community Partner States are subject to a reduced withholding tax rate of 
+five per cent of the gross amount. 
+Implication: The deletion of the 5% preferential dividend withholding tax rate for EAC citizens would subject such income to the standard 15% non-
+resident rate. This increases the tax burden on intra-EAC investment and may undermine regional integration objectives by removing a key fiscal 
+incentive, potentially making Kenya less attractive to EAC investors. 
+Proposed effective date: 1 July 2026
+
+
+--- PAGE 71 ---
+25
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- 
+Transfer Pricing
+
+--- PAGE 72 ---
+26
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Clarification of Country-by-Country Reporting Obligation
+Proposed amendments under the Finance Bill
+Clause 12 of the Finance Bill proposes technical drafting amendments to subsections (1), (2), and (5) of Section 18D to align the statutory references with 
+the applicable Country-by-Country (“CbC”) reporting obligations. The amendments primarily seek to ensure that the relevant provisions correctly reference 
+the applicable 12-month filing deadline and reporting requirements, while clarifying that these obligations apply equally to both Ultimate Parent Entities 
+(“UPEs”) and constituent entities subject to CbC reporting requirements.
+Implication: The proposed amendment is largely a clean-up intended to separate the Master File and Local File obligations from the Country-by-
+Country Reporting (“CbCR”) provisions.
+However, the wording of Section 18B(3) may still create interpretational uncertainty. In particular, Section 18D(3) provides that:
+“An ultimate parent entity or a constituent entity of a multinational enterprise group shall file a master file and a local file to the Commissioner in such 
+manner as the Commissioner may specify.”
+Unlike the CbCR provision, which clearly state that the filing obligation only applies to multinational groups with consolidated turnover of at least KES 
+95 billion, the provision dealing with the Master File and Local File does not expressly include a similar turnover threshold.  As currently drafted, this 
+could be interpreted to mean that all multinational enterprise groups in Kenya, are required to file a Master File and Local File, regardless of their group 
+turnover.
+Accordingly, while the proposed amendment appears intended to streamline the drafting of Section 18D, further amendment may be necessary to 
+clarify that the Master File and Local File filing obligations only apply to multinational enterprise groups meeting the KES 95 billion consolidated 
+turnover threshold provided under Section 18D(1B)
+Proposed effective date: 1 July 2026
+Income Tax- Transfer Pricing
+
+--- PAGE 73 ---
+27
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- Transfer Pricing
+Definition of a Country-by-Country Report
+Clause 13(a) of the Finance Bill 2026 proposes to expand the 
+definition of a Country-by-Country (“CbC”) report to recognise that, in 
+certain circumstances, the filing obligation may arise not only at the 
+level of the Ultimate Parent Entity (“UPE”), but also at the level of a 
+constituent entity within a multinational group. The amendment aligns 
+the definition with the broader scope of entities that may be required 
+to file a CbC report.
+Implication: This is an alignment with global framework for 
+Country-by-Country Reporting as it clarifies that a country-by-
+country report, is that which is filed by both an Ultimate Parent Entity 
+and a Constituent Entity. 
+Proposed effective date: 1 July 2026
+
+
+--- PAGE 74 ---
+28
+© 2024. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Income Tax- Transfer Pricing
+Alignment of the Excluded Multinational Enterprise Group 
+Definition with the Applicable Revenue Threshold
+Clause 13(b) of the Finance Bill 2026 proposes a clean-up 
+amendment to the definition of an “excluded multinational 
+enterprise group” by ensuring that the definition refers to the 
+provision containing the applicable revenue threshold for 
+Country-by-Country (“CbC”) reporting, rather than the provision 
+dealing with the filing obligation. 
+Implication: The amendment seeks to align the definition with 
+the correct basis for determining whether a multinational 
+enterprise group falls outside the CbC reporting requirements, 
+which is what is referenced under Section 18 D(1B). 
+Proposed effective date: 1 July 2026
+
+--- PAGE 75 ---
+29
+© 2024. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Income Tax- Transfer Pricing
+New definition of Ultimate Parent Entity (UPE)
+Clause 13 (c) of the Finance Bill 2026 proposes to amend Section 18 F in the definition of an “Ultimate Parent Entity”. Currently, this is defined as an entity 
+which; 
+a) Is not controlled by another entity; and 
+b) owns or controls, directly or indirectly, one or more constituent entities of a multinational enterprise group.
+However, the bill proposes to delete this definition and replace this definition with;
+A constituent entity of a multinational group where: 
+a) The constituent entity owns directly or indirectly a sufficient interest in one or more other constituent entities of the multinational enterprise group;
+b) The constituent entity is required to prepare consolidated financial statements under accounting principles generally applied in its jurisdiction of tax 
+residence, or would be so required if its equity interests were traded on a public securities exchange in its jurisdiction of tax residence; and
+c) There is no other constituent entity of the multinational enterprise group that owns directly or indirectly a sufficient interest in any of the other constituent 
+entities of the multinational enterprise group.
+Implication:
+The proposed amendment attempts to provide greater certainty in identifying the entity responsible for filing the country-by-country report within a 
+multinational enterprise group.
+Proposed effective date: 1 July 2026
+
+--- PAGE 76 ---
+30
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Income Tax- 
+Pay As You Earn
+
+--- PAGE 77 ---
+31
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Income Tax- PAYE
+Tightening of existing exemptions for employer paid gratuities
+Proposed amendment: The Bill seeks to broaden the scope of the current 
+exemption for employer paid gratuities contributed to registered pension 
+schemes. Currently, the exemption is capped at KES 360,000 per year of 
+service and excludes individuals eligible for deductions under Section 22A. 
+The proposed amendment introduces additional conditions, namely:
+a) The gratuity in respect of employment or services rendered, when paid 
+into a registered pension scheme, shall be tied to a contract of service 
+for a continuous period three years.
+b) Gratuity relating to employment or services rendered shall:
+Implication: The proposal clarifies the tax treatment of employer paid 
+gratuities to registered pension schemes by capping the exemption to 
+gratuity paid on contracts of at least three years.  
+Further, the proposal includes a new provisions that extends the exemption 
+to all gratuity payments but with restrictions on the percentage, years of 
+service and maintains the exclusion for employees who are eligible for 
+deductions under section 22A.
+The proposal seeks to tighten the framework and prevent abuse of the 
+exemption. While this provides greater clarity and ensures alignment with 
+long term employment contracts, it also restricts flexibility for employers 
+who may wish to contribute higher amounts or for employees with shorter 
+service periods. The cap on contributions could limit retirement benefits for 
+higher earning employees, while the exclusion of Section 22A beneficiaries 
+ensures that individuals do not enjoy overlapping tax advantages. 
+Proposed effective date: 1 July 2026
+Relate to a contract of service lasting at least three 
+consecutive years;
+Be subject to a cap whereby total contributions do not 
+exceed 31% of the employee’s basic salary; and
+Not apply to any person eligible for deduction under 
+Section 22A.
+01
+02
+03
+
+--- PAGE 78 ---
+32
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Income Tax- PAYE
+Deduction for Central Bank of Kenya (CBK) backed employee 
+housing loans 
+Proposed amendment: The Bill proposes to introduce a new paragraph 
+(af) under Section 15(2) of the Income Tax Act, providing for a deduction 
+of interest, up to KES 360,000 per year, on loans obtained from the 
+Central Bank of Kenya for the purpose of financing the construction, 
+purchase or improvement of a house occupied by an employee.
+Implication: Under the current Income Tax Act, only loans from qualifying 
+institutions listed under the Banking Act (Cap. 488) are eligible for interest 
+deduction. The proposed provision expands the scope to allow interest on 
+mortgage loans from the CBK, which is not governed by the Banking Act, 
+to qualify for an income tax deduction.
+Proposed effective date: 1 July 2026
+
+--- PAGE 79 ---
+33
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Value 
+Added Tax
+
+--- PAGE 80 ---
+34
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Value Added Tax
+Clarification on VAT Treatment of Hire Purchase Transactions
+Proposed provision:The Bill proposes to clarify and limit what 
+constitutes “financial charges payable in relation to the supply of credit” 
+by restricting this treatment to a supply of goods made by a person 
+licensed to carry on hire purchase business under a hire purchase 
+agreement registered in accordance with the Hire Purchase Act
+Implication: The proposed amendment narrows the scope of 
+transactions that qualify for exclusion of financial charges from VAT 
+by tying the treatment only to regulated hire purchase arrangements. 
+This means that only licensed entities, under the Hire Purchase Act, 
+will benefit from the exclusion of the credit element from the taxable 
+value.
+As a result, informal or unregulated financing arrangements that 
+mimic hire purchase structures may no longer qualify for exclusion of 
+credit element of the transaction from VAT.
+Proposed Effective Date: 01 July 2026
+Treatment of unsold taxable supplies which subsequently becomes exempt
+Proposed provision : The bill proposes to introduce section 17(A) to the VAT Act 
+providing that where a registered person’s taxable supplies become exempt, and 
+input tax had previously been claimed on such supplies, the taxpayer shall be 
+required to account for the input tax attributable to any unsold stock in the tax period 
+in which the supplies become exempt.
+The adjustment of input tax be computed using the same method that was applied 
+when the input tax was originally deducted and any excess input tax to be paid to the 
+commissioner. 
+Implication: The amendment is intended to introduce a claw back of input tax where 
+goods on which VAT was previously claimed becomes exempt. The objective is to 
+close any potential revenue leakage to the Kenya Revenue Authority by preventing 
+taxpayers from retaining input tax benefits on supplies that ultimately fall outside the 
+VAT net, even where they were previously treated as taxable supplies.
+In practical terms, businesses will need to identify any unsold stock at the point of 
+transition of status of unsold goods from taxable to exempt  and account for the input 
+tax previously claimed.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 81 ---
+35
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Value Added Tax
+Alignment of the VAT Act to TPA
+Proposed provision:The Bill seeks delete the definition of assessment, 
+information technology and tax computerized system in the VAT Act 
+Further, the Bill also seeks delete the definition of tax avoidance under 
+the VAT Act.
+Implication: The proposed deletions of the definition of assessment to 
+align the VAT Act to the definition already provided under the Tax 
+Procedure Act.
+Further the deletion of the terms “information technology and tax 
+computerized system” is aimed at harmonizing the definitions provided 
+under the Tax Procedures (Electronic Tax Invoice) Regulations, 2024 
+especially in light of the implementation of the Electronic Tax Invoice 
+Management System (e-TIMS).
+The deletion of this provision  in the VAT Act is aimed at eliminating 
+duplication, considering that the anti-avoidance provisions are already 
+comprehensively addressed under the Tax Procedures . This also 
+aligns with the proposed introduction of Section 18A to the TPA, which 
+broadens the Commissioner’s powers to counter tax avoidance 
+scheme across all tax laws. 
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 82 ---
+36
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Value Added Tax
+Refund of tax on bad debts
+Proposed provision:The Bill proposes to change the period after 
+which a taxpayer can apply for a refund of VAT on bad debts from 
+two years to three years.
+Commissions by digital payment service providers is standard rated
+Proposed provision: The Bill proposes to amend the VAT Act by subjecting 
+to VAT money transfer, payment processing, settlement, merchant acquiring, 
+gateway services or aggregation supplied over a software or platform for a 
+fee or commission by a payment service provider.
+Implication: 
+The proposal appears to be a response by National Treasury is 
+seeking to eliminate uncertainty surrounding the VAT treatment of 
+fintech and digital payment services, particularly in light of recent court 
+decisions affirming that certain fintech payment services qualify as 
+exempt supplies for VAT purposes.
+Under the proposed approach, payment service providers (PSPs) 
+would face clearer VAT obligations and a reduced likelihood of 
+disputes with the Kenya Revenue Authority (KRA). However, the 
+changes are also expected to increase compliance costs and could 
+ultimately lead to higher prices for consumers. 
+The move may also be viewed as a reaction to the recent High Court 
+ruling in favour of a payment service provider, where the court held that 
+commissions earned by the PSP were exempt from VAT.
+Proposed Effective Date: 01 July 2026
+Implication: This proposal increases the timelines for application for 
+refund of VAT on bad debts from 2 to 3 years. This is a reversal of the 
+provisions for the Finance Act, 2025, which had reduced the refund 
+period from three years to two years. 
+Taxpayers will now have to wait for one additional year before they can 
+apply for refund of VAT on bad debts. This will have cashflow 
+implications, since they had already accounted for the VAT but have to 
+wait an additional year to get a refund.
+Expansion for requirement for Tax Invoice
+Proposed provision : The Bill proposes to amend the VAT Act to expand 
+the requirement for provision of a tax invoice to every person involved in 
+supply of good and services. Previously, the VAT Act only required a 
+registered person to furnish a tax invoice at the time point of supply of good 
+or service.
+The amendment provides clarity on the obligation to issue tax invoices, 
+including by suppliers who are not registered for VAT, thereby ensuring 
+consistency in invoicing requirements under the electronic tax invoice 
+management framework.
+Proposed Effective Date: 01 July 2026
+Implication: This proposal seeks to align the Value Added Tax Act 
+with the Tax Procedures Act and the Tax Procedures (Electronic Tax 
+Invoice) Regulations, 2024, which establish the requirement for all 
+persons to issue electronic tax invoices for every supply of goods and 
+services. 
+
+--- PAGE 83 ---
+37
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Value Added Tax
+Definition of tour operators and in house supplies
+Proposed provision:The Bill proposes updates to paragraph 25 of 
+Part II of the First Schedule to define “tour operators” as a tour or 
+safari operator licensed as such by the competent authority 
+responsible for regulating and overseeing the tourism sector. 
+Additionally, the bill proposes to define “in house supplies” as 
+supplies made from a tour operator’s own resources; or bought 
+from third parties but materially altered so that the supply made is 
+substantially different to that purchased
+Implication: This proposal is aimed at restricting the VAT 
+exemption applicable to tour operators to only licensed and 
+regulated operators.
+The amendment is expected to provide greater clarity on the 
+scope of entities eligible for the exemption and reduce potential 
+abuse by businesses operating in a similar manner to tour 
+operators without the requisite licensing. 
+In addition, the introduction of the definition of “in-house supplies” 
+may assist in distinguishing qualifying tour services from mere 
+resale or intermediary arrangements, thereby enhancing certainty 
+in the application of the VAT exemption
+Proposed Effective Date: 01 July 2026
+Exemption of supply of services to PPP infrastructure 
+projects 
+Proposed provision:The Bill proposes to exempt supply of 
+services for the direct and exclusive use in the implementation of 
+infrastructure projects undertaken under a public private 
+partnership framework, upon approval by the Cabinet Secretary 
+on the recommendation of the Cabinet Secretary for the Ministry 
+responsible for the implementation of the project
+Implication: This proposal is aimed at lowering costs of 
+infrastructure projects carried out under PPP arrangements and 
+may lead to improved returns. The proposal may also lead to 
+increased interest and potentially more projects by various 
+investors.
+This can be seen as a strategic pivot by the national treasury to 
+attract investors under the PPP arrangements, in line  with the 
+government’s concerted position to move from the traditional debt 
+financing of projects, in attempts to ease the pressure on the 
+Kenya public debt.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 84 ---
+38
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Value Added Tax
+Increase in VAT-Free Allowance Threshold for Returning Passengers
+Proposed provision:The Bill Proposes to Increase the VAT-Free Allowance 
+Threshold for Returning Passengers from USD 300 to USD 2,000
+Implication: The proposal is expected to ease the tax burden on returning 
+passengers by allowing them to bring in a higher value of goods without 
+incurring VAT, thereby aligning the exemption with current economic 
+conditions and inflationary trends. It may also enhance the travel 
+experience by reducing incidental tax costs for travelers.
+The change could create enforcement challenges for the Kenya Revenue 
+Authority, particularly in distinguishing genuine personal baggage from 
+goods falling within this threshold which are intended for resale.
+Proposed Effective Date: 01 July 2026
+
+
+--- PAGE 85 ---
+39
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Zero-rated – Exempt
+Item Finance Bill 2026 
+proposed amendment Current rate
+All inputs and raw materials whether produced locally or imported, supplied to 
+pharmaceutical manufacturers in Kenya for manufacturing medicaments, as 
+approved from time to time by the Cabinet Secretary in consultation with the 
+Cabinet Secretary responsible for matters relating to health
+Exempt Zero rated
+Transportation of sugarcane from farms to milling factories. Exempt Zero rated
+The supply of locally assembled and manufactured mobile phones Exempt Zero rated
+The supply of motorcycles of tariff heading 8711.60.00 (Motor vehicle with electric 
+motor for propulsion). Exempt Zero rated
+The supply of electric bicycles. Exempt Zero rated
+The supply of solar and lithium-ion batteries. Exempt Zero rated
+The supply of electric buses of tariff heading 87.02 (Motor vehicles for the transport 
+of ten or more persons,including the driver.) Exempt Zero rated
+Inputs or raw materials locally purchased or imported for the manufacture of animal 
+feeds upon recommendation by the Cabinet Secretary for the time being 
+responsible for agriculture.
+Exempt Zero rated
+Bioethanol vapour (BEV) Stoves classified under HS Code 7321.12.00 (cooking 
+appliances and plate warmers for liquid fuel). Exempt Zero rated
+The supply of electric buses of tariff heading 87.02. Exempt Zero rated
+The Bill has proposed to amend the following items by moving them from zero-rated to exempt:
+
+--- PAGE 86 ---
+40
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Exempt – Standard rated
+Item Finance Bill 2026 
+proposed amendment Current rate
+spacecraft Standard rated Exempt
+Taxable goods and services for direct and exclusive use for the construction of 
+tourism facilities, recreational parks of fifty acres or more, convention and 
+conference facilities upon the recommendation by the Cabinet Secretary 
+responsible for matters relating to recreational parks.
+Standard rated Exempt
+Goods imported or purchased locally for the direct and exclusive use in the 
+construction of houses under an affordable housing scheme. Standard rated Exempt
+The supply of denatured ethanol of tariff number 2207.20.00. Standard rated Exempt
+Direction-finding compasses, instruments and appliances for aircraft. Standard rated Exempt
+Spare parts imported or purchased for direct and exclusive use in the 
+implementation of official aid funded projects, provided that any exemption granted 
+for spare parts before the 30th June 2026, shall apply until the conclusion on the 
+project.
+Standard rated Exempt
+The Bill has proposed to amend the following items by moving them from exempt to standard rated:
+Implication: The proposal  seek to remove VAT exemptions and applies the normal VAT rate to several previously exempt sectors. 
+The likely implications are: Increases costs for aviation, tourism, housing, and donor-funded projects. This will likely lead to higher prices for consumers 
+and investors and may also slow investment and affordable housing development. 
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 87 ---
+41
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Standard rated-Exempt
+Item Finance Bill 2026 proposed 
+amendment
+Current Provision
+Dialyzers of tariff number 8421.29.00. Exempt Standard rated
+Scrap metal. Exempt Standard rated
+The supply of imported or locally purchased telephones for cellular networks and other wireless 
+networks. Exempt Standard rated
+Worn clothing and other worn articles of tariff heading 6309, other than upon importation. . Exempt Standard rated
+The supply of goods for the direct and exclusive use in the implementation of infrastructure 
+projects undertaken under a public private partnership framework. Exempt Standard rated
+Implication: 
+The proposal  seek to exempt previous standard rated items. While it may appear as a tax relief because the final consumer is not charged VAT, it often increases 
+the overall cost of goods because producers cannot claim VAT on their inputs.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 88 ---
+42
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+
+--- PAGE 89 ---
+43© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Introduction of “Antique, vintage or “classical vehicle” and its definition
+The Bill proposes to introduce a definition for “Antique, vintage or “classical 
+vehicle” as a motor vehicle whose year of  first registered is at least 30 years 
+before the date of purchase and whose value is at least KES 10 million, excluding 
+depreciation.
+Implication. The proposed change explains what counts as an antique, vintage, 
+or classic vehicle. This means that going forward only genuine collector vehicles 
+will qualify under this definition. Newer or low-value old cars will therefore not be 
+labeled as classics. This would make it easier for the government to apply the 
+excise duty on the two categories in a more consistent manner.
+Proposed effective date : 1 July 2026
+Excise duty liability  and excise duty point for telephones and wireless 
+networks to begin upon activation
+Proposed provision: The Bill proposes that excise duty at the rate of 25% on 
+locally purchased or imported cellular telephones and wireless networks shall 
+become due and payable upon activation.
+Implication: This proposal will potentially shift the excise duty point on mobile 
+phones from importation or manufacture to the time of activation on a network, 
+which is expected to improve cash flow for importers and manufacturers by 
+deferring the tax point to actual use. The change aligns taxation with consumer 
+usage rather than inventory holdings, reducing tax pressure on unsold stock. 
+However, it will require stronger tracking and reporting systems between telecom 
+operators, businesses, and the KRA to monitor the activations and ensure 
+compliance.
+Proposed effective date for the  Liability is 1 July 2026 while payment and 
+25% rate is effective 1 January 2027
+Implication:  The proposal gives the Cabinet Secretary legal 
+authority to develop and issue detailed regulations to implement the 
+activation-based regime. 
+Proposed effective date : 1 July 2026
+Introduction of regulations by the Cabinet Secretary on the 
+timing of tax liability for telephones and wireless networks
+Proposed provision: Introduction of regulations by the Cabinet 
+Secretary on the timing of tax liability for telephones and wireless 
+networks
+Change in excisable value for betting/gambling transactions
+Proposed provision: The Bill proposes to change the excisable value on 
+betting  from the amount  deposited into a customer’s betting wallet to the 
+amount deposited for betting purposes.
+Implication: This may narrow the tax base by recognizing that not every 
+deposit into a betting/gambling wallet is necessarily used for 
+betting/gambling activities. The amendment could therefore provide 
+greater certainty on the taxable amount, reduce disputes over non-
+betting deposits, and align the excise duty more closely with actual 
+betting transactions.
+Proposed effective date : 1 January 2027
+
+--- PAGE 90 ---
+44© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Expansion of Excise Duty scope to services offered by 
+Virtual Asset Providers
+Proposed provision: The Bill proposes to expand Excise Duty 
+scope to services offered by Virtual Asset providers.
+Implication: This clarifies that excise duty applies specifically 
+to virtual asset service providers and aligns the wording with the 
+Virtual Asset Service Providers Act . 
+Proposed effective date : 1 January 2027
+Definition of amount deposited
+Proposed provision: The Bill proposes to define amount deposited for gambling or 
+betting purposes to be the total value of money or money’s worth paid, transferred, 
+credited, or otherwise made available for betting or gambling purposes to a person 
+who has been licensed to offer gambling services. 
+Implication: This will reduce ambiguity and strengthen tax enforcement by 
+ensuring that all forms of consideration used for gambling are captured, 
+regardless of the payment method or transaction structure. The amendment may 
+also limit opportunities for tax avoidance and provide greater certainty for both 
+taxpayers and the tax authority on the determination of the excisable value.
+Proposed effective date : 1 January 2027
+Introduction of  “Virtual assets” and “Virtual Asset Service Provider” 
+definitions
+Proposed provision: The Bill proposes to define the terms “virtual asset” to mean a 
+digital representation of value that can be digitally traded or transferred and can be 
+used for payment or investment purposes and does not include representation of flat 
+currencies, securities and other financial assets and “virtual asset service provider”, 
+means a company licensed under the first schedule to the Virtual Asset Service 
+Providers Act, 2025.
+Implication:  The change is aimed at bringing the virtual asset industry into 
+Kenya’s legal and tax framework by defining what counts as a virtual asset and 
+who qualifies as a regulated service provider, thereby improving taxation, 
+oversight, and market regulation.
+Proposed effective date : 1 January 2027
+Exemption to National Intelligent Service
+Proposed provision: The Bill proposes an excise duty exemption 
+on all goods including materials supplies, equipment, machinery 
+and motor vehicles for the official use by National Intelligence 
+Service (NIS).
+Implication:  This measure is expected to reduce operational 
+costs and strengthen the NIS’s capacity by lowering the cost of 
+procurement, thereby freeing up resources for core security 
+functions. However, it will also lead to a loss of excise revenue 
+for the government and will necessitate robust oversight 
+mechanisms to ensure the exemption is strictly applied to 
+legitimate official use and to prevent any potential misuse or 
+diversion of goods.
+Proposed effective date : 1 January 2027
+
+--- PAGE 91 ---
+45Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Comments Description Proposed excise duty 
+rate
+Current excise duty  
+rate
+Proposal All purchased spirits of undenatured extra neutral alcohol of alcoholic 
+strength exceeding 90%, whether licensed or not
+KES. 80 per litre KES. 500 per litre
+Proposal Locally produced articles of plastic of tariff heading 3923.30.00 and 
+3923.90.00 whether imported or locally produced
+10% Non excisable
+Proposal Locally manufactured Gummed paper and paperboard of tariff number 
+4811.49.00
+25% of excisable value or 
+KES 200 per kg 
+whichever is higher
+Non excisable
+Proposal Locally manufactured Printed self-adhesive paper of tariff number 
+4811.41.90
+25% of excisable value or 
+KES 200 per kg 
+whichever is higher
+Non excisable
+Proposal locally processed sugar confectionery of tariff heading 17.04 KES 85.82 per kg Non excisable
+Increase of scope on excise duty on various products
+Implication on increase of scope on excise duty on various products
+The government has broadened the scope of activities and goods subject to excise duty in a deliberate effort to expand the tax base to boost 
+domestic revenue collection. 
+Proposed effective date : 1 January, 2027
+
+--- PAGE 92 ---
+46Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Comments Description Proposed excise duty 
+rate
+Current excise duty 
+rate
+Proposal Cigars, cheroots, cigarillos, containing tobacco or tobacco substitutes KES 18,000 per kg KES 16,260.29 per kg
+Proposal Other manufactured tobacco and manufactured tobacco substitutes; 
+“homogenous” and “reconstituted tobacco”; tobacco extracts and 
+Essences
+KES. 12,550 per kg KES 11,382.48 per kg
+Proposal Fruit juices (including grape must) and vegetable juice, unfermented, 
+containing added sugar or other sweetening matter and not containing 
+added spirit
+KES. 20 per litre KES. 14.14 per litre
+Proposal Beer, cider, perry, mead, opaque beer and mixtures of fermented 
+beverages with non-alcoholic beverages and spirituous beverages 
+manufactured by licensed small independent
+KES. 22.50 per centiliter 
+of pure alcohol
+KES 10 per centiliter of 
+pure alcohol
+Proposal Telephones for cellular networks 25% of the excisable 
+value.
+10% of the excisable 
+value.
+Increase of Excise Duty rate on various products
+Proposed effective date : 1 January, 2027
+The government is increasing revenue collection by raising excise duty on products such as cigars, high-sugar beverages, beer, imported sinks, and mobile 
+phones. These measures broaden the tax base by targeting high-consumption and growing market. At the same time, the proposals seek to influence 
+consumer behavior, promote public health objectives, and encourage local manufacturing and economic sustainability.
+Implication on increase of excise duty on various products
+
+--- PAGE 93 ---
+47Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Comments Description Proposed excise duty 
+rate Current excise duty rate
+Proposal Bottled or similarly packaged waters Non excisable KES. 6.41 per litre
+Removal of excise duty on products
+Implication on removal of excise duty on various products.
+If enacted as currently drafted, manufacturers and importers of bottled water would no longer be required to account for excise duty on these products, 
+potentially lowering production costs and easing compliance obligations within the sector. 
+Item Proposed excise duty rate
+Antique, vintage and classic vehicles 50% of the excisable value
+Coal 5% of excisable value
+Horse racing 5% of the amount deposited for gaming
+Introduction of Excise duty on the following items
+The government is increasing revenue collection by expanding the excise tax base to cover luxury vehicles, coal, wireless network devices, and horse racing 
+activities. These measures target previously untaxed or lightly taxed sectors, enabling the government to generate additional revenue from high-value goods, 
+energy consumption, technology products, and betting activities.
+Implication on introduction of Excise duty on new items as above.
+
+--- PAGE 94 ---
+48Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Goods from EAC subject  to excise duty
+Proposed items Applicable tariff Excise duty rate
+Imported furniture 9403 30% of Excisable value
+Imported printed gummed or self-adhesive paper 4811.41.90 or 4811.49.00 25% of excisable value or KES. 200 per kg, 
+whichever is higher
+Imported plates of plastic 3919.90.90, 3920.10.90, 3920.43.90, 
+3920.62.90 and 3921.19.90
+25% or KES. 200 per kg, whichever is higher
+Imported paper or paper board, labels of all kinds 4821.10.00 and 4821.90.00 25% or KES 200 per kg, whichever is higher
+Imported printing ink 3215.11.00 and 3215.19.00 15% of Excisable value
+Imported Float glass and surface ground or polished glass, in sheets, whether 
+or not having an absorbent, reflecting or non-reflecting layer, but not otherwise 
+worked, but excluding those imported by a registered processor upon the 
+recommendation by the Cabinet Secretary responsible for matter relating to 
+industry.
+7005 35% of excisable value or KES 500 per 
+square meter whichever is higher
+Imported other self-adhesive plates, sheets, film, foil, tape, strip and other flat 
+shapes, of plastics, whether or not in rolls
+3919.90.90 25% or KES 200 per kg whichever is 
+higher
+Imported printed polymers of ethylene of other plates, sheets, film, foil and 
+strip, of plastics, noncellular and not reinforced, laminated, supported or 
+similarly combined with other materials
+3920.10.90 25% or KES 200 per kg whichever is higher
+
+--- PAGE 95 ---
+49Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Goods from EAC subject  to excise duty
+Proposed items Applicable tariff Excise duty rate
+Imported printed polymers of vinyl chloride containing by weight not less than 6% of other 
+plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, 
+supported or similarly combined with other materials of tariff number 3920.43.90
+3920.43.90 25% or KES 200 per kg whichever is 
+higher
+Imported printed poly (ethylene terephthalate) of polycarbonates, alkyd resins, polyallyl esters 
+or other plates, sheets, film, foil and strip, of plastics, noncellular and not reinforced, laminated, 
+supported or similarly of tariff number 3920.62.90
+3920.62.90
+25% or KES 200 per kg whichever is 
+higher
+Imported printed cellular of other plastics of other plates, sheets, film, foil and strip 3921.19.90
+25% or KES 200 per kg whichever is 
+higher
+“Imported Uncoated kraft paper and paperboard, in rolls or sheets; kraftliner; unbleached. 4804.11.00
+25% of excisable value or
+KES.50 per kg,
+whichever is higher.
+Imported other kraft paper or paperboard weighing 150g/m² or less, in rolls or sheets; 
+unbleached. 4804.31.00
+25% of excisable value
+or KES 50 per kg, whichever is higher
+Imported other kraft paper or paperboard weighing more than 150g/m² but less than 225 g/m², 
+in rolls or sheets; unbleached 4804.41.00 25% of excisable value
+or KES 50 per kg, whichever is higher
+Imported other kraft paper or paperboard weighing 225 g/m² or more others in rolls or sheets; 
+unbleached. 4804.51.00
+25% of excisable value
+or KES 50 per kg, whichever is higher
+Imported Glass of heading 70.03, 70.04 or 70.05, bent, edge-worked, engraved, drilled, 
+enamelled or otherwise worked, but not framed or fitted with other materials of Tariff Heading 
+70.06,
+70.03,70.04 or 
+70.05
+35% of excisable value or KES 500 
+per square metre, whichever is higher
+
+--- PAGE 96 ---
+50Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Excise Duty
+Goods from EAC subject  to excise duty
+Proposed items Applicable tariff Excise duty rate
+Imported safety glass 7007.19.00 
+and 7007.29.00
+35% of excisable value or KES. 500 per
+squaremetre, whichever is higher
+Imported Multiple-walled insulating units of glass 70.08 35% of excisable value or KES. 500 per
+squaremetre, whichever is higher
+The proposal appears aimed at broadening the excise duty base by bringing into charge goods originating from EAC Partner States 
+notwithstanding their preferential customs treatment under the EAC Customs Union framework and Rules of Origin regime. While this may 
+enhance domestic revenue mobilisation, it potentially creates tension with the broader regional integration objectives of facilitating free movement 
+of qualifying goods within the EAC. The measure may also increase production costs and reduce the competitiveness of EAC-origin goods 
+relative to imports from other regions.
+Implication of introduction of excise duty to good of EAC origin 
+Proposed effective date : 1 January, 2027
+
+--- PAGE 97 ---
+51Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures 
+Act 
+
+--- PAGE 98 ---
+52Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+New definitions for “virtual asset” and “virtual asset 
+service provider”
+Proposed provision: The Bill proposes to update new definitions 
+to include virtual assets and virtual asset service provider. 
+Implication: The proposed amendment, if enacted, shall 
+clarify that transactions involving digital assets fall within the 
+scope of tax administration. This removes ambiguity 
+regarding the tax treatment of activities such as trading in 
+cryptocurrencies, receiving payments in virtual assets Token-
+based or blockchain-related transactions
+Additionally, entities classified as Virtual Asset Service 
+Providers (e.g., exchanges, brokers, wallet providers) are 
+now explicitly recognized within the tax framework, resulting 
+in increased likelihood of KRA registration and compliance 
+obligations, potential requirements for transaction reporting, 
+record-keeping, and disclosure and  greater regulatory 
+scrutiny similar to traditional financial intermediaries . 
+Taxpayers operating in or exposed to virtual asset markets 
+should take proactive steps to ensure full compliance and 
+readiness for heightened regulatory oversight. 
+Proposed Effective Date: 01 July 2026
+Virtual asset service provider documentation and information reporting 
+Proposed provision: The Bill proposes the introduction of mandatory annual 
+information return filing requirements for virtual asset service providers 
+(VASPs) in respect of users identified as reportable persons or with reportable 
+controlling persons. The obligation applies to VASPs that facilitate exchange 
+transactions or operate trading platforms, whether as intermediaries or 
+counterparties.
+Implication: The proposed amendment shall  strengthen the Kenya 
+Revenue Authority’s ability to track virtual asset transactions and enforce tax 
+compliance at both intermediary and user levels, signaling a move toward 
+systematic monitoring of the digital asset economy.
+The proposal  imposes significant compliance and enforcement measures, 
+including penalties of KES 100,000 per omission, and, in cases of false 
+statements, criminal sanctions including fines and/or imprisonment of up to 
+three years. Notably, relief is provided where a VASP demonstrates that it 
+made reasonable efforts to obtain required information from users. Failure to 
+file an information return (including a “nil” return) will also attract penalties
+This proposal presents a material shift toward enhanced tax transparency 
+and reporting in the virtual asset ecosystem, aligning Kenya with emerging 
+global reporting standards for digital assets. 
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 99 ---
+53Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Cross-border automatic exchange of information on virtual assets
+Proposed provision: The Bill proposes to empower KRA to enter into 
+agreements with other jurisdictions for the automatic exchange of information 
+(AEOI) relating to virtual asset transactions. 
+.
+Implication: This provision if enacted will empower KRA  to enter into 
+agreements that would facilitate the cross-border exchange of data including 
+information returns filed by virtual asset service providers (VASPs), due 
+diligence and record-keeping obligations, details of reportable users and 
+controlling persons, nil return filings, and arrangements designed to 
+circumvent reporting requirements.
+Additionally, the  inclusion of avoidance arrangements signals a clear intention 
+to capture aggressive structuring aimed at evading transparency obligations.
+In our view this amendment represents a step toward aligning Kenya with 
+global tax transparency initiatives in the digital asset space, similar to the 
+OECD’s Crypto-Asset Reporting Framework (CARF). Again, taxpayers 
+utilizing virtual assets across jurisdictions should anticipate heightened data 
+sharing, reduced anonymity, and increased audit risk, particularly where 
+structures or arrangements appear designed to avoid reporting.
+Proposed Effective Date: 01 July 2026
+Registration and PIN re-instatement 
+Implication: Under the proposed amendment, a person whose tax 
+registration (PIN) has been deregistered but subsequently becomes 
+liable to tax will be required to apply to the Commissioner for 
+reinstatement. Upon satisfaction that the individual or entity is liable for 
+tax, the Commissioner will reinstate the registration and reissue the 
+same PIN previously held prior to deregistration, rather than issuing a 
+new one.
+If enacted, the amendment will go along way towards tightening 
+taxpayer lifecycle management and strengthening tax system integrity.
+By preserving the same PIN upon reinstatement, KRA is looking at 
+enhanced transparency, traceability, and enforcement continuity, 
+effectively preventing fragmentation of taxpayer records.
+Taxpayers should be mindful that deregistration will no longer operate 
+as a clean break from prior tax obligations. Instead, any re-entry into 
+the tax net will reactivate historical linkages, reinforcing the importance 
+of maintaining full compliance before deregistration and planning 
+carefully for any future re-engagement in taxable activities.
+Proposed Effective Date: 01 July 2026
+Proposed Provision: The Bill proposes the  reinstatement of 
+deregistered taxpayers with new or historical tax obligations.
+
+--- PAGE 100 ---
+54Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Non-resident PIN exemption
+Proposed provision: The Bill proposes to exempt non-resident persons from 
+the requirement to obtain a Personal Identification Number (PIN) when opening 
+an account with an investment bank. 
+.
+Implication: This provision if enacted will simplify market entry and reduce 
+administrative barriers for foreign investors, particularly those participating 
+in Kenya’s capital markets through investment banks.
+Additionally, the proposal is expected to enhance ease of doing business 
+and improve Kenya’s attractiveness as an investment destination, by 
+removing a key onboarding requirement that has historically delayed or 
+discouraged non-resident participation. 
+In our view this amendment if enacted will  streamline account opening 
+processes and facilitate increased cross-border investment inflows as it 
+promotes  foreign investment by facilitating non-resident participation in 
+Kenya’s financial markets.
+Proposed Effective Date: 01 July 2026
+Commissioner’s powers on tax avoidance schemes 
+Implication: Under the proposed amendment a Taxpayers can no longer rely 
+solely on technical compliance with the law if arrangements lack commercial 
+substance or are primarily tax-driven. The breadth of the definitions and the 
+extensive data sources available to the Commissioner significantly increase 
+the likelihood of aggressive tax planning structures being challenged and 
+unwound. 
+This may particularly impact cross-border arrangements, financing structures, 
+intercompany transactions, and timing strategies that produce tax 
+advantages. 
+The provision introduces greater discretion for the Commissioner, which, 
+while strengthening enforcement, may also lead to increased interpretational 
+uncertainty and potential disputes, particularly in complex commercial 
+arrangements. Taxpayers will need to adopt a more cautious and substance 
+driven approach to tax planning, ensuring that transactions are supported by 
+clear commercial rationale, robust documentation, and defensible economic 
+substance.
+Proposed Effective Date: 01 July 2026
+Proposed Provision: The Bill proposes to empower the Commissioner  to 
+disregard or recharacterize any arrangement, transaction, or scheme where it 
+is determined that:  a taxpayer has entered into a tax avoidance scheme, a tax 
+benefit has been obtained, and the main purpose or one of the main purposes 
+of the scheme is to obtain that benefit. Allowing the Commissioner to reassess 
+the taxpayer’s liability as if the scheme had not been undertaken.  
+
+--- PAGE 101 ---
+55Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Assessments on third-party/system data 
+Proposed provision: The Bill proposes KRA to issue an assessment on the 
+income of a person by relying on third party or data available in the system. 
+Implication: This Bill proposes to expand and reinforce the powers of 
+the KRA in issuing tax assessments by enabling reliance on a broader 
+and more integrated pool of data. It effectively formalizes existing 
+administrative practices under platforms such as eTIMS and iTax, as 
+well as other data-gathering mechanisms.
+The scope of these data sources extends beyond traditional channels, 
+including banks, employers, and digital tax systems, to encompass a 
+wide range of interconnected information streams thereby enhancing 
+the Authority’s capacity for data-driven compliance and enforcement. 
+This move is aimed to curb mismatch of incomes declared against the 
+available information.
+Proposed Effective Date: 01 July 2026
+Implication: The tax amnesty program applies on penalties, interest, 
+and fines due on unpaid taxes. It will, however, not apply in the case of 
+a shortfall penalty where the KRA alleges fraud on a taxpayer that 
+knowingly failed to pay tax. 
+Companies looking to take advantage of the tax amnesty should 
+proactively engage a tax advisor to review their tax position with a view 
+of taking advantage of the amnesty by 31 December 2026.
+Proposed Effective Date: 01 July 2026
+Reintroduction of the tax amnesty
+Proposed provision: The Bill seeks to reinstate a tax amnesty on interest, 
+penalties and fines relating to tax liabilities, provided that the principal tax 
+was settled on or before 31 December 2025. In cases where the principal 
+tax remains unpaid, the amnesty will be granted once and only on the 
+condition that all outstanding principal taxes are fully settled by 31 
+December 2026.
+Principal tax for failure to deduct or withhold tax 
+Proposed provision: The Bill proposes to delete Section 39A(2) thus 
+empowering KRA to collect principal tax where withholding agents fails to 
+deduct, withhold or remit tax on a payment. 
+Implication: Currently, withholding agents are not required to pay the 
+principal tax not deducted, withheld or remitted provided the recipient of the 
+payment has paid and accounted for the full principal tax and the tax not 
+deducted, withheld or remitted.
+This means that the Commissioner may still enforce the collection of taxes 
+required by withholding agents. This shift the administrative burden wholly to 
+the withholding agents.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 102 ---
+56Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Agency notices to apply notwithstanding active appeals
+Proposed provision: The Bill proposes to delete Section 42(14)(e) effectively 
+withdrawing the protection against agency notices offered to taxpayers who have 
+pending appeals.  
+Implication: Currently, Currently, the Commissioner is restricted from issuing 
+agency notices against taxpayers who have active appeals before the Tax Appeals 
+Tribunal, the High Court, or the Court of Appeal. The proposed amendment removes 
+this statutory protection, meaning that a pending appeal will no longer operate as an 
+automatic bar to enforcement through agency notices.
+Taxpayers may therefore be required to proactively apply for stay orders or other 
+interim relief to prevent enforcement while appeals are ongoing. In practice, this is 
+likely to increase cash-flow pressure, litigation costs, and procedural complexity, 
+particularly in large or long-running disputes.
+The amendment also raises important constitutional and procedural fairness 
+considerations under Article 47 of the Constitution and the Fair Administrative Action 
+Act. Allowing enforcement measures to proceed while a taxpayer is actively pursuing 
+a lawful appeal may be viewed as undermining the effectiveness of the appellate 
+process, particularly where recovery action could render the appeal moot before 
+determination.
+From a practical perspective, the proposal signals a shift toward a more 
+enforcement-driven tax dispute framework, requiring taxpayers to adopt earlier and 
+more deliberate litigation protection strategies, including applications for stay of 
+enforcement at the Tribunal or higher courts.
+Proposed Effective Date: 01 July 2026
+Removal of the requirement for a certificate of origin
+Proposed provision: The Bill proposes to repeal Section 44A of the 
+Tax Procedures Act which places a requirement that all goods 
+imported to Kenya must have a certificate of origin.
+Implication: Prior to the insertion of Section 44A by the Finance 
+Act, 2025, certificates of origin were required primarily for 
+preferential tariff treatment under trade arrangements such as 
+EAC, COMESA and AfCTA. Deletion of Section 44A will revert 
+to this position effectively removing the blanket requirement of 
+certificates of origin for all imported goods. If enacted, this will 
+likely go a long way to reduce compliance costs, administrative 
+hurdles and procedural delays for importers.
+Proposed Effective Date: 01 July 2026
+Removal of import VAT references from the Tax Procedures Act
+Proposed provision: The Bill proposes to amend Section 47(1) 
+of the Tax Procedures Act by deleting the words “and value 
+added tax payable on imports”
+Implication: This amendment is part of the miscellaneous 
+cleanups to remove duplicative provisions and align the TPA 
+with current administrative practice. Import VAT is now fully 
+administered under Customs/VAT regime. 
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 103 ---
+57Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Digitalization of return filing
+Proposed provision: The Bill proposes to empower the Commissioner to 
+generate pre-populated returns based on information available to KRA and 
+allow the taxpayer to rely on such pre-populate returns to submit or lodge 
+their returns. 
+Implication: The proposed amendment is an attempt to formalise KRA’s 
+recent shift to pre-populated returns, already experienced in VAT and 
+PAYE. For taxpayers, it may ease filing  process and reduce time and  
+cost involved. It will also minimize errors arising from manual data entry.
+While the amendment allows the taxpayer to rely on the pre-populated 
+returns, it does not place the legal responsibility to KRA. If enacted, 
+taxpayers will therefore be obligated to review pre-populated returns 
+carefully, correct any inaccuracies and ensure that all relevant deductions 
+and adjustments are included.
+Proposed Effective Date: 01 July 2026
+Regulations on the procedure for submission of prepopulated tax 
+returns
+Proposed provision: The Bill proposes to empower the Cabinet 
+Secretary to make Regulations on the procedure for submission or 
+lodging of returns based on prepopulated tax returns generated by the 
+Commissioner.  
+Implication: The proposed amendment reinforces KRA’s efforts to 
+adopt a semi-automated or assisted tax compliance model, where 
+returns are generated using third-party data including employers, 
+banks, and digital platforms. 
+Through Regulations issued by the Cabinet Secretary, taxpayers will 
+be provided with clear guidance on the procedures for reviewing, 
+confirming, or amending returns that have already been generated 
+on the iTax portal. The Regulations are also expected to expressly 
+outline the consequences and penalties applicable in cases of 
+non-compliance.
+Introduction of Regulations by the Cabinet Secretary on 
+prepopulated tax returns are a welcome move as they will provide 
+clarity verification timelines, the handling of inaccuracies, and the 
+applicable appeal processes thus enhancing procedural 
+transparency.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 104 ---
+58Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Malfunction of an electronic tax system
+Proposed provision: The Bill proposes to amend Section 89 (5A) to 
+recognize malfunction of an electronic tax system as an independent ground 
+for waiver of penalties and interest.
+Implication: The proposed amendment if enacted will provide some level 
+of protection to taxpayers against penalties and interest that arise from 
+malfunctioning of iTax, iCMS, eRITS eTIMS or any other electronic tax 
+compliance systems outside their control.
+Penalties and interest due to system-generated errors eligible for 
+waiver
+Implication: This proposed amendment recognises that taxpayers should 
+not be penalised for non-compliance attributable to failures or errors 
+within KRA’s electronic systems.
+However, the introduction of a KES 2 million cap on such waivers may 
+limit relief for taxpayers who incur penalties and interest exceeding that 
+threshold due to systemic platform failures, particularly in large or high-
+volume transactions.
+The proposal may also create interpretational uncertainty, given that 
+Section 89(5A)(a) of the Tax Procedures Act already recognises errors 
+generated by an electronic tax system as an independent ground for 
+waiver of penalties and interest, without prescribing a monetary limitation. 
+The amendment therefore raises questions on how the two provisions 
+would operate concurrently in practice.
+Proposed Effective Date: 01 July 2026
+Proposed provision: The Bill proposes to insert Section 89 (5B) allowing 
+the Commissioner to waive penalty and interest not exceeding KES 2M 
+imposed on liability due to system generated errors.
+By recognising the malfunction of an electronic tax system as a 
+legitimate ground for the waiver of penalties and interest, the 
+amendment strengthens procedural fairness and aligns penalty 
+administration with the realities of electronic tax systems, ensuring that 
+taxpayers are not financially disadvantaged by technological failures 
+beyond their control.
+Proposed Effective Date: 01 July 2026
+Time for lodging objections and Appeals
+Proposed provision: The Bill proposes to include Saturdays, Sundays and 
+Public Holidays in computation of statutory time for lodging objections and 
+appeals. 
+Implication: The proposed amendment reverses the position introduced 
+under the Tax Laws (Amendment) Act, 2024, which excluded Saturdays, 
+Sundays and public holidays from the computation of time for lodging 
+objections and appeals where the final day fell on a non-working day.
+By compressing the period available to taxpayers to prepare and file 
+objections and appeals, the risk of inadvertent non-compliance, particularly 
+in complex disputes requiring extensive documentation, internal approvals 
+or professional review may be heightened. 
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 105 ---
+59Finance Bill, 2026 Analysis
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Tax Procedures Act
+Implication: The proposed Amendment provides clarity and 
+predictability in KRA’s decision-making on non-compliance with 
+electronic tax payment requirements of Section 75 of the Act.
+By prescribing specific grounds for consideration of a taxpayer’s 
+non-compliance, taxpayers are better able to understand the 
+circumstances under which non-compliance with electronic tax payment 
+requirements may be excused.
+Proposed Effective Date: 01 July 2026
+Non-compliance with electronic tax payment obligations
+Implication: The proposed amendment is likely to increase compliance 
+risk, particularly for small businesses and individuals who may face 
+technical, capacity or system-related challenges. 
+Inadvertent delays or procedural lapses in electronic payments could 
+result in disproportionately high penalties, potentially straining cash flows 
+and increasing the cost of compliance. 
+Proposed Effective Date: 01 July 2026
+Proposed provision: The Bill proposes to introduce penalties and 
+interest equal to the higher of twice the amount due, KES 100,000, or KES 
+10,000 for individual taxpayers due to non-compliance with electronic tax 
+payment obligations under Section 75 of the Act. 
+Proposed provision: The Bill proposes to introduce three specific grounds 
+for the Commissioner’s consideration when assessing a taxpayer’s 
+non-compliance with electronic tax payment obligations under Section 75 of 
+the Act:
+• Existence of circumstances beyond the taxpayer’s reasonable control;
+• Absence of wilful neglect or deliberate default on the part of the taxpayer; 
+and;
+• Evidence that the taxpayer took reasonable steps to comply with the 
+relevant requirement as soon as practicable.
+Exhaustive grounds for non-compliance with electronic tax systems
+Waiver of penalty or interest due to duplication of interest or penalty 
+Proposed provision: The Bill proposes to delete Section 89 (5A) by 
+recognizing duplication of penalty and interest as an independent ground 
+for waiver of penalty and interest.
+Implication: This proposal reflects intended fairness and proportionality 
+in tax administration by recognizing that taxpayers should not be unduly 
+penalised for computational or systemic errors that result in duplicated 
+charges rather than genuine non-compliance.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 106 ---
+60
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Miscellaneous 
+Fees & Levies Act
+
+--- PAGE 107 ---
+61
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Miscellaneous Fees & Levies Act (MFLA)
+Reduction in allocation of Import Declaration Fee (IDF) allocated to a 
+Fund under the Public Finance Management Act and removal of 
+revenue earmarked for revenue enforcement initiatives
+Proposed provision: The Bill proposes to limit the IDF collected and 
+allocated to a Fund under the PFMA from 20% to 10%. Additionally, the 10% 
+allocation is limited to  payments of Kenya's contributions to the African 
+Union and any other international organisation to which Kenya has a 
+financial obligation. Money in the Fund will no longer be allocated for 
+revenue enforcement initiatives as initially provided in the MFLA.
+. Implication: The reduction of IDF revenue earmarked for purposes of 
+Kenya’s financial contributions to the African Union and its financial 
+obligations to international organisations will likely result in redirection 
+of the revenue to the Consolidated Fund for general appropriation to 
+meet budget needs.
+Additionally, the elimination of the allocation of IDF revenue towards 
+revenue enforcement initiatives will likely impact the Kenya Revenue 
+Authority (KRA) and other revenue collection agencies. This may lead 
+to budget constraints undermining the operational capacity for KRA and 
+other agencies.
+Proposed Effective Date: 01 July 2026
+Implication: This proposal widens the scope of application of EACCMA to 
+cover all fees and levies under the Act, which will now include anti-
+adulteration levy, investment promotion levy, and processing fees on duty-
+free motor vehicles. 
+The Act currently provides for Import Declaration Fee, Railway Development 
+Levy and export levy as being subject to the EAC Customs Management Act 
+framework in respect of the assessment, collection and enforcement of the 
+payment of the said fee or levy. 
+This is a clean-up provision that harmonizes Kenya’s domestic tax law 
+regime and the regional customs law framework.
+Proposed Effective Date: 01 July 2026
+Broadening application of the EAC Customs Management Act 
+(EACCMA) to all fees and levies
+Proposed provision: The Bill proposes to expand the application of the 
+EACCMA in relation to the determination of value of imported goods, 
+assessment, collection and enforcement of the payment of duty to apply to all 
+fees and levies under Part III of the Act..
+.
+
+--- PAGE 108 ---
+62
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+ Finance Bill, 2026 Analysis
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Miscellaneous Fees & Levies Act (MFLA)
+Restricted exemptions on aircraft, spacecraft, and parts thereof
+Proposed provision: The Bill proposes to restrict the IDF and RDL 
+exemptions currently granted to all goods and parts thereof of Chapter 88.  
+Implication: The proposed amendment to the Act seeks to narrow the 
+IDF and RDL exemptions to the effect that aircraft and spacecraft parts, 
+components, and accessories will remain exempt. However, complete 
+goods in Chapter 88 are removed from the exemption, unless they fall 
+under the two specified headings, 8802.30.00 and 8802.40.00 which 
+cover aeroplanes and other aircraft of an unladen weight exceeding 
+2,000 kg but not exceeding 15,000 kg and other aircraft of an unladen 
+weight exceeding 15,000 kg respectively.
+This narrowing of the exemptions may negatively impact players in the 
+aviation sector especially in respect of light and large commercial aircraft 
+falling outside the scope of exemption covered in the classification under 
+HS Code 8802.30.00 and 8802.40.00. 
+Proposed Effective Date: 01 July 2026
+Implication: Currently, the importation of phones into Kenya attracts 
+Import Declaration Fee (IDF) at 2.5% and Railway Development Levy 
+(RDL) at 2%.
+The proposal to introduce an exemption for mobile phones will reduce the 
+additional 4.5% tax costs currently borne by importers of telephones and 
+passed on to consumers 
+However, the Bill also proposes to change the rate of excise duty charged 
+on imported phones from 10% to 25%. The 15% increase in excise duty 
+outweighs the relief provided by the IDF and RDL exemption. Additionally, 
+other taxes such as VAT and customs duty remain applicable on 
+importation of mobile phones. 
+While the IDF and RDL exemption on mobile phones signals a policy move 
+to improve affordability and digital inclusion, the increase in excise duty 
+undermines this move.
+Proposed Effective Date: 01 January 2027
+Exemption on imported phones from Railway Development Levy (RDL) 
+and Import Declaration Fee (IDF)
+Proposed provision: The Bill proposes to introduce an exemption from RDL 
+and IDF for  imported telephones for cellular networks and other wireless 
+networks.
+
+--- PAGE 109 ---
+63
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Stamp 
+Duty Act
+
+--- PAGE 110 ---
+64
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Stamp Duty Act
+Exemption for transfer of property to real estate investment s (REITs)
+Proposed provision: The Bill proposes to exempt stamp duty 
+payment on property transferred by a person to an authorized real 
+estate investment Trust.
+Implication: Currently, payment of stamp duty is exempt on 
+transfers from one REITs to another and on the transfer of 
+beneficial interest in property in exchange for units in the REIT. 
+The proposal addresses a gap in the existing exemption 
+framework by introducing a new exemption that aims to ensure 
+that transfer of property into the REIT is exempted regardless of 
+whether the transfer conveys any interest in the REIT to the 
+transferor. 
+The impact of this proposal is that it will cover a broader range 
+of transactions including the transfer of property to a REIT 
+through direct sales and capital injections by promoters and 
+developers.
+The harmonization of stamp duty treatment of all forms of 
+property transfer into REITs creates a conducive environment 
+for investment in REITs and the participation of property owners 
+and developers in the REIT market.
+Proposed Effective Date: 01 July 2026
+
+--- PAGE 111 ---
+65
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Road Maintenance Levy
+Fund Act
+
+--- PAGE 112 ---
+66
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent 
+member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved.
+Foreword Income Tax-
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures
+Act
+Excise Duty Miscellaneous Fees
+ Levies Act
+Foreword Income Tax- 
+Corporation Tax
+Pay As You Earn Value Added Tax Tax Procedures 
+Act
+Excise Duty Miscellaneous Fees 
+& Levies Act
+Other Acts
+Finance Bill, 2026 Analysis
+Road Maintenance Levy Act
+Proposed reduction of the Road Annuity Fund allocation from the 
+Road Maintenance Levy
+Proposed provision: The Bill proposes to reduce the levy amount 
+paid into the Road Annuity Fund from KES 3 to KES 1.50 per litre.
+Implication: Currently, KES 3 per litre of petroleum fuel sold is 
+paid into the Road Annuity Fund which finances the construction 
+of roads and similar projects approved by the National Assembly. 
+The reduction in funding allocated to the construction of roads 
+under the Road Annuity Fund may potentially increase reliance on 
+alternative financing measures including road tolls, concessional 
+loans and government-issued debt instruments to bridge the gap.  
+Proposed Effective Date: 01 July 2026
+
+
+--- PAGE 113 ---
+Disclaimer 
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we 
+endeavour to provide accurate and timely information, there can be no guarantee that such information is accurate as of the date it is received or that it will 
+continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the 
+particular situation. 
+© 2026. KPMG Advisory Services Limited, a Kenyan Limited Liability Company and a member firm of the KPMG global organization of independent member 
+firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. 
+Clive Akora
+Partner
+Tax and Regulatory Services
+KPMG East Africa
+Contacts
+Sandeep Main
+Partner
+Tax and Regulatory Services
+KPMG East Africa
+Peter Kinuthia
+Partner
+Tax and Regulatory Services
+KPMG East Africa

@@ -1,0 +1,8 @@
+# Ignore python virtual environments and caches
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Ignore Next.js build caches and node modules
+frontend/.next/
+frontend/node_modules/
