@@ -143,7 +143,7 @@ export default function SautiYaWananchi() {
                 {/* Embedded Loading Animation Block */}
                 {loading && (
                   <div className="flex justify-start" style={{ display: 'flex', justifyContent: 'flex-start' }}>
-                    <div className="bg-white text-gray-600 rounded-2xl rounded-tl-none px-5 py-3 flex items-center space-x-3 border border-gray-200 text-xs font-bold" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', borderTopLeftRadius: '0', padding: '0.75rem 1.25rem', display: 'flex', items: 'center', gap: '0.5rem' }}>
+                    <div className="bg-white text-gray-600 rounded-2xl rounded-tl-none px-5 py-3 flex items-center space-x-3 border border-gray-200 text-xs font-bold" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', borderTopLeftRadius: '0', padding: '0.75rem 1.25rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                       <div className="flex space-x-1" style={{ display: 'flex', gap: '0.25rem' }}>
                         <div className="w-2 h-2 bg-[#991B1B] rounded-full animate-bounce" style={{ width: '8px', height: '8px', backgroundColor: '#991B1B', borderRadius: '50%' }} />
                         <div className="w-2 h-2 bg-[#065F46] rounded-full animate-bounce" style={{ width: '8px', height: '8px', backgroundColor: '#065F46', borderRadius: '50%' }} />
