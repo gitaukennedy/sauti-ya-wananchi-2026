@@ -143,7 +143,7 @@ export default function SautiYaWananchi() {
                 {/* Embedded Loading Animation Block */}
                 {loading && (
                   <div className="flex justify-start" style={{ display: 'flex', justifyContent: 'flex-start' }}>
-                    <div className="bg-white text-gray-600 rounded-2xl rounded-tl-none px-5 py-3 flex items-center space-x-3 border border-gray-200 text-xs font-bold" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', borderTopLeftRadius: '0', padding: '0.75rem 1.25rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+                    <div className="bg-white text-gray-600 rounded-2xl rounded-tl-none px-5 py-3 flex items-center space-x-3 border border-gray-200 text-xs font-bold" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', borderTopLeftRadius: '0', padding: '0.75rem 1.25rem', display: 'flex', items: 'center', gap: '0.5rem' }}>
                       <div className="flex space-x-1" style={{ display: 'flex', gap: '0.25rem' }}>
                         <div className="w-2 h-2 bg-[#991B1B] rounded-full animate-bounce" style={{ width: '8px', height: '8px', backgroundColor: '#991B1B', borderRadius: '50%' }} />
                         <div className="w-2 h-2 bg-[#065F46] rounded-full animate-bounce" style={{ width: '8px', height: '8px', backgroundColor: '#065F46', borderRadius: '50%' }} />
@@ -198,18 +198,40 @@ export default function SautiYaWananchi() {
                 </div>
               </div>
 
-              <div className="bg-white border border-gray-200 p-6 rounded-2xl shadow-md flex flex-col justify-between" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', padding: '1.5rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
-                <div className="space-y-3">
-                  <h3 className="text-xs font-black text-[#991B1B] tracking-widest uppercase" style={{ margin: 0, color: '#991B1B', letterSpacing: '0.1em', fontWeight: '900' }}>Social Impact Vector</h3>
-                  <p className="text-xs text-gray-600 leading-relaxed" style={{ fontSize: '0.75rem', lineHeight: '1.6' }}>
-                    Independent economic assessments flag core risks that applying standard 16% VAT streams directly onto digital transaction exchange platforms could trigger financial exclusion metrics for rural vendors.
-                  </p>
+              {/* Sidebar Panel containing Social Vectors and the Verification PDF Downloader */}
+              <div className="flex flex-col gap-4">
+                <div className="bg-white border border-gray-200 p-6 rounded-2xl shadow-md flex flex-col justify-between" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', padding: '1.5rem', display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                  <div className="space-y-3">
+                    <h3 className="text-xs font-black text-[#991B1B] tracking-widest uppercase" style={{ margin: 0, color: '#991B1B', letterSpacing: '0.1em', fontWeight: '900' }}>Social Impact Vector</h3>
+                    <p className="text-xs text-gray-600 leading-relaxed" style={{ fontSize: '0.75rem', lineHeight: '1.6' }}>
+                      Independent economic assessments flag core risks that applying standard 16% VAT streams directly onto digital transaction exchange platforms could trigger financial exclusion metrics for rural vendors.
+                    </p>
+                  </div>
+                  <div className="p-4 bg-red-50 border border-red-100 rounded-xl mt-4" style={{ backgroundColor: '#FEF2F2', border: '1px solid #FEE2E2', borderRadius: '0.75rem', padding: '1rem' }}>
+                    <span className="text-[10px] font-black text-[#991B1B] block mb-1 uppercase tracking-wider">eTIMS Compliance Integration</span>
+                    <p className="text-[11px] text-gray-600 m-0 leading-relaxed">System-wide auditing rules compel micro-business outlays to synchronize transactions natively to survive regulatory assessments.</p>
+                  </div>
                 </div>
-                <div className="p-4 bg-red-50 border border-red-100 rounded-xl mt-4" style={{ backgroundColor: '#FEF2F2', border: '1px solid #FEE2E2', borderRadius: '0.75rem', padding: '1rem' }}>
-                  <span className="text-[10px] font-black text-[#991B1B] block mb-1 uppercase tracking-wider">eTIMS Compliance Integration</span>
-                  <p className="text-[11px] text-gray-600 m-0 leading-relaxed">System-wide auditing rules compel micro-business outlays to synchronize transactions natively to survive regulatory assessments.</p>
+
+                {/* 📂 Professional Verification Archive UI Card component */}
+                <div className="bg-white border border-gray-200 p-6 rounded-2xl shadow-md flex flex-col" style={{ backgroundColor: 'white', border: '1px solid #E5E7EB', borderRadius: '1rem', padding: '1.5rem' }}>
+                  <h3 className="text-xs font-black text-[#065F46] tracking-widest uppercase mb-2" style={{ margin: 0, color: '#065F46', letterSpacing: '0.1em', fontWeight: '900' }}>
+                    Verification Archive
+                  </h3>
+                  <p className="text-xs text-gray-600 leading-relaxed mb-4" style={{ fontSize: '0.75rem', lineHeight: '1.6' }}>
+                    Need to look at the official source clauses? Download the unedited raw scanned photocopy version of the framework document here.
+                  </p>
+                  <a 
+                    href="/official_finance_bill_2026_scanned.pdf" 
+                    download="Official_Finance_Bill_2026_Scanned.pdf"
+                    className="w-full bg-[#065F46] hover:bg-[#044a30] text-white font-bold py-2.5 px-4 rounded-xl text-xs tracking-wider transition-all shadow-sm uppercase text-center block"
+                    style={{ backgroundColor: '#065F46', color: 'white', fontWeight: '700', borderRadius: '0.75rem', fontSize: '0.75rem', border: 'none', cursor: 'pointer', textDecoration: 'none' }}
+                  >
+                    Download Original PDF Backup
+                  </a>
                 </div>
               </div>
+
             </div>
           )}
         </main>
